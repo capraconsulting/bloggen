@@ -1,0 +1,30 @@
+---
+title: 'Team Assessment Service: Capra sin metode for coaching av utviklingsteam'
+intro: 'Vi har utviklet en tjeneste for team coaching: Team Assessment Service (TAS). Dette er et verktøy våre smidig-coacher anvender for å akselerere kapabilitetene til et team, slik at teamet raskere oppnår en optimal tilstand hvor det kan forbedre seg selv kontinuerlig ut sin levetid.'
+description: 'Gustav Dyngeseth fra Capra Consulting omtaler tre bøker innen TPU. Les dem her >>'
+pubDate: '2021.12.17'
+author: Gustav Dyngeseth
+heroImage: '/team-assessment-service.webp'
+---
+
+I Capra elsker vi team, og har engasjerte konsulenter innenfor teamledelse og smidig coaching som til daglig jobber med å videreutvikle høypresterende team, både internt og ute hos kunder. En viktig del av arbeidet som gjøres er å bygge nye team som med glede og engasjement leverer riktig og god software, i like stor grad som vi videreutvikler eksisterende team. I de tilfellene vi involveres for å bistå eksisterende team, er første handlingspunkt ofte en kartlegging av teamets nåværende nivå. For å gjennomføre dette har vi utviklet en konkret tjeneste vi har døpt *Team Assessment Service (TAS)*. Tjenesten kan bla. anvendes på utviklerteam som leverer programvare eller ulike lederteam, men den kan også tilbys andre team ved å tilpasse den kvantitative undersøkelsen til teamets respektive spillefelt.
+
+TAS er utviklet i tett samarbeid med vårt inhouse software-miljø, [Liflig](https://www.liflig.no/). Der har vi fått tilgang på etablerte utviklerteam som sa seg villige til å teste og videreutvikle tjenesten i iterasjoner. Gjennom denne reisen har vi observert ved flere tilfeller at et teams prestasjonsnivå kan økes betraktelig ved hjelp av data om teamets leveranseevner i kombinasjon med en våken team coach. Coachen sitt formål er å få teamet til å forbedre seg på områder de selv utforsker og oppdager at har forbedringspotensiale innenfor. Tjenesten utgjør en menneskelig og pragmatisk tilnærming på topp (coaching-samtaler på teamnivå), og et faglig og datadrevet utgangspunkt i bunn (den kvantitative undersøkelsen).
+
+## Kvantitativ undersøkelse
+
+Første steg i TAS består av å gjennomføre den kvantitative spørreundersøkelsen som samler inn relevant data om teamet. Dette er en undersøkelse hvert enkelt teammedlem svarer på i kontekst av sin rolle i det gjeldende teamet. Teamene får selvsagt en introduksjon til undersøkelsen i forkant, og spørsmålene tilpasses teamets arbeidskontekst for å sikre god datakvalitet. I noen tilfeller gjennomfører vi også kvalitative samtaler i forkant for å sikre at den kvantitative undersøkelsen treffer riktig.
+
+Metrikkene vi måler gjennom undersøkelsen og deretter analyserer i samarbeid med teamet, er hovedsakelig inspirert av fagbøkene *Accelerate*, *The Five Dysfunctions of a Team og Tuckman's Five Stages of Group Development*. Kort oppsummert måler undersøkelsen teamets nåværende Software Delivery Performance (SDF), kultur, identitet, Employee Net Promoter Score (eNPS) og de fem team dysfunksjonene: (1) unngåelse av ansvarliggjøring, (2) manglende forpliktelsesvilje, (3) frykt for konflikt, (4) uoppmerksomhet på resultater og (5) fravær av tillit. For en mer utdypende gjennomgang av viktigheten til disse metrikkene, kan du lese en oppsummering av bla. Accelerate og The Five Dysfunctions of a Team på [Capra-bloggen](/bokanmeldelse-tre-boker-innen-team-prosjekt-og-utviklingsledelse).
+
+## Coaching-samtaler
+
+Etter at teamet har svart på undersøkelsen, bearbeider en smidig coach besvarelsene og gjør seg opp noen tanker om trender i det kvantitative datasettet - det synliggjøres ofte helt konkrete forbedringsområder under en slik prosess. Coachen tar med seg observasjonene og presenterer de i en coaching-samtale med hele teamet i fellesskap. Denne presentasjonen gjøres i første omgang objektivt for å ikke lede teamet i retning basert på forutinntatte antagelser. Teamet bestemmer så selv hvilke av forbedringsområdene coachen presenterer som de ønsker å utfordre seg selv på. Vi identifiserer vanligvis to til tre faktorer som teamet ønsker å forbedre, for eksempel tillit og ledetid.
+
+Så fort teamet er samstemt om hvilke(n) utfordring(er) som skal løses for å forbedre de utvalgte faktorene, vil coachen veilede teamet til å finne to til fem tiltak de selv ønsker å gjennomføre. Dette kan for eksempel være teambuildingsaktiviteter i eller utenfor arbeidstid for å bygge medmenneskelige relasjoner som øker tilliten innad i teamet. Ønskelig kommer tiltakene fra teamet selv - de er eksperter på det de holder på med og vet oftest best selv hva som må til for å løse utfordringen(e) de står overfor. Coachen sin oppgave blir dermed heller å skape forutsetningene for at teamet evner å løse riktig problem på sin egen måte til riktig tid.
+
+## Ansvarliggjøring
+
+Til slutt ansvarliggjøres teamet tiltakene og avtaler et tidspunkt når neste runde med coachen skal gjennomføres. Vanligvis gir vi teamet en til tre måneder på å implementere tiltakene, før vi kjører en ny runde med den kvantitative spørreundersøkelsen for å måle fremgang. I mellomtiden er coachen tilgjengelig for teamet for veiledning på både team- og individnivå. Det er ingen grense for hvor mange iterasjoner teamet kan ha med TAS, men tanken er at etter noen iterasjoner vil det evne å forbedre seg selv - altså et helautonomt team med fokus på kontinuerlig forbedring i det uendelige (eller frem til teamets dager er talte).
+
+Etter å ha benyttet seg av TAS i minst én iterasjon kan teamet forvente (1) kunnskap om modenhet i teamet, (2) kjenne sine styrker og svakheter som team, (3) få et felles vokabular for å snakke om team dynamikk, (4) hjelp på veien videre oppover i modenhetsmodellen, og (5) verktøy som støtter teamarbeidet i hverdagen. Kombinasjonen av denne innsikten gjør teamet kapabelt til å drive kontinuerlig forbedring - klare til å bestige neste fjelltopp (og den etter der). De beste fotballagene i verden trenger coaching, vi slår et slag for at selv de aller beste utviklingsteame behøver og fortjener det samme!
