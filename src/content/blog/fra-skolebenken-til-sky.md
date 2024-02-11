@@ -10,15 +10,15 @@ heroImage: '/fra-skolebenken-til-sky.webp'
 AWS-sertifiseringer åpner nye dører
 Niklas Johansen, Erlend Ekern og Jørgen Halvorsen startet alle tre i Capra høsten 2019, og var raskt i gang med arbeidet med å lære mer om AWS.
 
-\- Jeg anbefaler å være mer nysgjerrig utover det man lærer på skolen. Med AWS-sertifiseringen har jeg fått muligheten til å jobbe med spennende teknologi som brukes av store selskaper for å sette opp infrastruktur, forteller Jørgen, som sitter hos Gjensidige i dag.
+– Jeg anbefaler å være mer nysgjerrig utover det man lærer på skolen. Med AWS-sertifiseringen har jeg fått muligheten til å jobbe med spennende teknologi som brukes av store selskaper for å sette opp infrastruktur, forteller Jørgen, som sitter hos Gjensidige i dag.
 
-\- Det krevde litt jobb, da det var mye nytt å sette seg inn i og mange forkortelser. Men når man kommer seg inn i sjargongen, og begynner å forstå sammenhengene, blir det bare mer og mer spennende og er en fin erfaring uansett om man jobber med sky eller ei.
+– Det krevde litt jobb, da det var mye nytt å sette seg inn i og mange forkortelser. Men når man kommer seg inn i sjargongen, og begynner å forstå sammenhengene, blir det bare mer og mer spennende og er en fin erfaring uansett om man jobber med sky eller ei.
 
 Niklas er enig. Han valgte å ta AWS Certified Solutions Architect, som er en AWS-sertifisering for å få en kickstart i sky-verden. I løpet av studietiden hadde han enkelte fag om nettverk og skytjenester, men disse ga et veldig begrenset innblikk i stoffet. Dermed tenkte han sertifiseringen ville være en ypperlig mulighet til å dykke dypere i materien og gi et teoretisk og praktisk grunnlag å bygge videre på ute i prosjekt.
 
 ## Kundene tjener på utviklernes AWS-sertifiseringer
 
-\- Det kom til svært god nytte allerede fra dag én, forklarer Niklas. I dag jobber jeg med å utvikle Vy sin nye tjenesteplattform, som vi bygger helt fra bunn i AWS. Applikasjonene som i dag kjører på on-prem-løsninger skrives på nytt til å utnytte de mulighetene skyplattformen tilbyr. Da snakker vi server-less, kø- og notifikasjonssystemer, API-tjenester, dokumentdatabaser, infrastructure as code og mye mer.
+– Det kom til svært god nytte allerede fra dag én, forklarer Niklas. I dag jobber jeg med å utvikle Vy sin nye tjenesteplattform, som vi bygger helt fra bunn i AWS. Applikasjonene som i dag kjører på on-prem-løsninger skrives på nytt til å utnytte de mulighetene skyplattformen tilbyr. Da snakker vi server-less, kø- og notifikasjonssystemer, API-tjenester, dokumentdatabaser, infrastructure as code og mye mer.
 
 Som Niklas, så sitter Erlend hos Vy. Han jobber med å forenkle hverdagen for de andre utviklingsteamene, ved å bruke automatisering og DevOps prinsipper i skyen. Han jobber hovedsakelig med AWS i dag, etter å ha benyttet tiden godt før oppdrag på Capra HQ.
 
