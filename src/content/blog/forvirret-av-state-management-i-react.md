@@ -157,8 +157,9 @@ I dette eksempelet kan vi se at CardComponent har en Header og Content, der Cont
 
 <figure>
   <img src="/public/forvirret-av-state-management-i-react/components2.webp" alt="Component tree">
-  <figcaption>Figur 4: Component composition shallow component tree
-</figcaption>
+  <figcaption>
+    Figur 4: Component composition shallow component tree
+  </figcaption>
 </figure>
 
 På denne måten kan vi unngå “prop drilling” der vi må sende ned staten som props i flere ledd for å nå komponenten som trenger det.
