@@ -18,7 +18,7 @@ La oss starte med det jeg mener er de to viktigste prinsippene i denne metodikke
 1. Du skal ansette basert på fremtidig prestasjon, ikke nåværende ferdigheter eller kompetanse.
 2. Du skal kunne tilby en kandidat en 30% økning på ulike parametere, slik som ansvar, utfordring, faglig vekst og personlig vekst ved bytte av jobb. Lønn er ikke en del av ligningen i første omgang. Kan du ikke tilby dette, så ikke kast bort tiden til kandidaten.
 
-![Opportunity gap oversikt](/public/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/oppotunity-gap.webp)
+![Opportunity gap oversikt](/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/oppotunity-gap.webp)
 
 Dette appellerer godt til oss i Capra. Våre ansatte skal ikke stå stille, men kontinuerlig søke ny kunnskap og nye ferdigheter, slik at de kommer seg nærmere den rollen eller jobben de ønsker seg videre i karrieren. Vi ser på karrieren som en reise, og Capra skal være en positiv erfaring på den ferden.
 
@@ -28,25 +28,25 @@ Når vi ansetter en ny kandidat, stiller vi ikke spørsmålet: “Hva må person
 
 Da vi ansatte [vår nye CTO, Heidi Brovold](/mot-var-nye-cto), i våres, var det første vi gjorde i den prosessen å identifisere hva vår nye CTO skulle oppnå. Det så slik ut:
 
-![Formål med rollen](/public/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/oppna.webp)
+![Formål med rollen](/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/oppna.webp)
 
 Etter prestasjonsmålene var på plass lagde vi en “Employee Value Proposition (EVP)”. Hva kan vi som selskap tilby denne kandidaten utover lønn og andre økonomiske goder?
 
 Et lite utdrag av det som stod der var:
 
-![Employee Value Proposition](/public/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/evp.webp)
+![Employee Value Proposition](/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/evp.webp)
 
 Det er først som et steg nr 3 vi begynner å se på kandidatprofilene, samt utvikle en personas. Kandidatprofilen inneholder blant annet erfaring, ferdigheter og personlige egenskaper, men fungerer ikke som en sjekkliste. Den er en veileder for screening på hva vi *tror* er riktig. Justeringer gjøres eventuelt etter noen intervjuer.
 
 Her ser dere hvordan vi definerte erfaring i kandidatprofilen:
 
-![Kandidatprofil](/public/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/kandidatprofil.webp)
+![Kandidatprofil](/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/kandidatprofil.webp)
 
 Til å rekruttere en CTO for et IT-konsulentselskap med rundt 100 ansatte, så satte vi ikke voldsomme krav til erfaring tenker du kanskje?
 
 Tanken er at erfaring i seg selv ikke er et krav. Kravet til stillingen er at personen kan implementere en ny faglig strategi på 90 dager. Det er derfor ikke antall år som er avgjørende, men hva kandidaten har fylt årene med. Som rekrutterer ser jeg på ulike CVer med tankesettet, “vil denne jobben by på en stor nok utfordring?”, ikke “kan kandidaten X og Y?”
 
-![Whiteboard tavle](/public/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/whiteboard.webp)
+![Whiteboard tavle](/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/whiteboard.webp)
 
 **Hvordan responderte kandidatene?**
 
@@ -56,7 +56,7 @@ For en rekrutterer er det mye lettere å være konkret og direkte når du har be
 
 Selve “pitchen” var standard, men innledning var skreddersydd basert på informasjon vi hentet inn fra nettverk, Linkedin, Google og andre steder. Her er et eksempel på hvordan en slik LinkedIn melding kunne se ut:
 
-![LinkedIn melding](/public/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/melding.webp)
+![LinkedIn melding](/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/melding.webp)
 
 **Hvordan funker prinsippene på vanlige konsulenter?**
 

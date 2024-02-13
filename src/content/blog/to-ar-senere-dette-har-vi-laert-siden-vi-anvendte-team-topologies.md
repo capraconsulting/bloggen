@@ -13,7 +13,7 @@ Høsten 2019 startet vi i Capra arbeidet å fornye strategien vår. Den viktigst
 
 Passende nok hadde akkurat boken “Team Topologies: Organizing Business and Technology Teams for Fast Flow” av Manuel Pais og Matthew Skelton blitt lansert. Den gav oss vokabularet vi trengte for å designe en ny organisasjonsstruktur basert på de ønskede prinsippene vi hadde identifisert. Til tross for at boken sikter seg inn mot tradisjonelle tech-selskaper, står det nevnt i en bisetning at forfatterne også tror den kan passe i andre kontekster. Vi tok dette for god fisk, og tenkte at det verste som kan skje er at vi lærer en hel masse på reisen vår.
 
-![Organisasjonskart](/public/to-ar-senere-dette-har-vi-laert-siden-vi-anvendte-team-topologies/orgkart.webp)
+![Organisasjonskart](/to-ar-senere-dette-har-vi-laert-siden-vi-anvendte-team-topologies/orgkart.webp)
 
 > Figur 1: Organisasjonskart Capra Consulting, November 2020.
 
@@ -23,7 +23,7 @@ I november 2020 hadde vi etablert 13 team som jobbet innenfor markedsføring, re
 
 Siden den gang har vi iterert mye på implementasjonen, [vi har hatt besøk av Manuel Pais](https://www.youtube.com/watch?v=lksI_2QL5Ww&t=1s) for å snakke litt om hans tanker om vårt noe utradisjonelle eksperiment og vi har gjennomført en spørreundersøkelse for å hente de ansattes feedback. Dette har kulminert i Figur 2, som viser organisasjonskartet vårt per januar 2022.
 
-![Nytt organisasjonskart](/public/to-ar-senere-dette-har-vi-laert-siden-vi-anvendte-team-topologies/orgkart2.webp)
+![Nytt organisasjonskart](/to-ar-senere-dette-har-vi-laert-siden-vi-anvendte-team-topologies/orgkart2.webp)
 
 > Figur 2: Organisasjonskart Capra Consulting, Januar 2022.
 

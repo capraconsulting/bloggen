@@ -11,7 +11,7 @@ heroImage: '/js-hero.webp'
 
 Hvis du ikke ønsker å lese hele artikkelen, så har jeg samlet de viktigste endringene i dette bildet.
 
-![Oppsummering av kode](/public/nyheter-i-javascript-es2021.webp)
+![Oppsummering av kode](/nyheter-i-javascript-es2021.webp)
 
 ## Bakgrunn
 

@@ -25,7 +25,7 @@ Liflig kan på mange måter sammenlignes med Google Docs. Her blir dokumenter, l
 
 Vi synes ikke egentlig det finnes noen grunn for å la være å bytte til Liflig dersom man trenger skreddersydde softwareløsninger. Men igjen – det kan være nepotismen som snakker. Ser vi bort fra det faktum at dette er en skikkelig kul løsning, vil Liflig også kunne møte mer kjedelige og fornuftige krav, som tidsbesparing og økonomisk lønnsomhet. Liflig gir deg nemlig en forutsigbar forretningsmodell med faste månedlige kostnader, slik at du unngår ubehagelige overraskelser og plutselig må pantsette hele bedriften. Kontraktene våre er også enkle å forstå, og vi tilpasser de naturligvis etter deres behov.
 
-![Pengeplante](/public/liflig-kan-lose-et-stort-softwareproblem-i-it-bransjen/pengeplante.webp)
+![Pengeplante](/liflig-kan-lose-et-stort-softwareproblem-i-it-bransjen/pengeplante.webp)
 
 Siden du får et flott team på laget og programvaren din oppdateres i sanntid vil du også bli spart for mye tid og hodebry. Du slipper å oppdage feil eller problemer, for det er vi alltid på jakt etter. Liflig betyr faktisk herlig – og det er denne løsningen! Rett og slett helt herlig.
 

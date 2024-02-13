@@ -37,6 +37,6 @@ Med Liflig får du mindre å tenke på og færre bekymringer. Du skal aldri tren
 
 Liflig sin forretningsmodell er langt nærmere et partnerskap enn et «kunde og leverandør»-forhold. Vi fungerer som en forlengelse av din egen bedrift, fremfor en leverandør av en tjeneste. Gjennom Liflig får du et superteam, hvor våre roller utfyller rollen til din bedrift. For at det ferdige resultatet skal bli bra trenger du heller ikke kompetanse om IT-utvikling, du må bare finne ut av hva du vil ha, og stille deg litt disponibel til et samarbeid slik at vi kan utvikle den perfekte softwareløsningen for bedriften din.
 
-![Stemningsbilde](/public/hvorfor-bor-du-velge-liflig-som-skreddersydd-softwarelosning/stemning.webp)
+![Stemningsbilde](/hvorfor-bor-du-velge-liflig-som-skreddersydd-softwarelosning/stemning.webp)
 
 Har du en teknologisk utfordring du vil vi skal se nærmere på, eller er du nysgjerrig på om dette er noe for deg? [Ta kontakt med oss](https://www.liflig.no/kontakt-oss) - så tar vi en hyggelig prat!

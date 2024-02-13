@@ -17,7 +17,7 @@ Siden livet består av flest hverdager, mener vi det er viktig å gjøre hver en
 
 Dersom man er IT-konsulent vil arbeidshverdagen gjerne bestå av å jobbe ute hos ulike kunder på lange og korte prosjekter. Da er det viktig å kunne ha en finger med i spillet når det kommer til hvilke kunder man ender opp hos. Noen prosjekter vil for eksempel vekke større interesse for visse IT-konsulenter enn for andre. Brenner du for noe bør arbeidsplassen tilrettelegge for lidenskapen, og la deg arbeide med de prosjektene du selv ønsker. \*Kremt, kremt\* det gjør selvfølgelig Capra.
 
-![Stemingsbilde av en som jobber](/public/hva-er-viktigere-enn-lonn-for-it-konsulenter/work.webp)
+![Stemingsbilde av en som jobber](/hva-er-viktigere-enn-lonn-for-it-konsulenter/work.webp)
 
 ## Selvutvikling så du kan bli den beste versjonen av deg selv
 
@@ -31,7 +31,7 @@ Status quo er ikke for alle, og nettopp derfor ønsker mange å arbeide et sted 
 
 I IT-bransjen har det blitt mer og mer vanlig å jobbe selvstendig, og mange tør å satse på dette etter å ha fått erfaring fra konsulenthus. Det kan være skummelt å gi uttrykk for at man vil forlate en arbeidsplass til fordel for noe eget, og mange kvier seg for å fortelle sjefer og kolleger om dette. Derfor bør man se etter et sted med lave skuldre og forståelse for individuelle behov og drømmer. For Capra er det hyggelig å ha flinke folk så lenge det varer, og som stolte foreldre elsker vi å sende ungene våre ut i den store verden. Heiagjeng-mentalitet lenge leve.
 
-![Stemingsbilde av ei som jobber på kafe](/public/hva-er-viktigere-enn-lonn-for-it-konsulenter/work2.webp)
+![Stemingsbilde av ei som jobber på kafe](/hva-er-viktigere-enn-lonn-for-it-konsulenter/work2.webp)
 
 ## Finn din nye drømmejobb hos Capra
 

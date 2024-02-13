@@ -40,14 +40,14 @@ Jepp, det var faktisk alt. Før du leser videre kan du teste dette selv og bekre
 For de av dere som kjenner til [ngrok](https://ngrok.com/) så må nok dette ligne veldig mye. Det er derimot en stor forskjell: ngrok er ikke peer to peer (P2P). ngrok bruker nemlig en sentral server. Responsen Alice sender til Bob går alltid via denne serveren.
 
 <figure>
-  <img alt="ngrok mellom Alice og Bob" src="/public/del-localhost-med-internett-pa-under-ett-minutt/ngrok.webp">
+  <img alt="ngrok mellom Alice og Bob" src="/del-localhost-med-internett-pa-under-ett-minutt/ngrok.webp">
   <figcaption>Data går via ngrok</figcaption>
 </figure>
 
 Denne serveren *kan* være veldig praktisk. Ved bruk av ngrok får Alice en vanlig URL som kan deles med Bob. Bob behøver da ikke gjøre noe ekstra i terminalen. Bare å åpne lenka i nettleseren. Dessverre gjør dette at selve overføringshastigheten blir begrenset av ngrok. Kjipt om Alice og Bob sitter nærme hverandre og all trafikk må gå en omvei.
 
 <figure>
-  <img alt="Alice direkte til Bob" src="/public/del-localhost-med-internett-pa-under-ett-minutt/alice-bob.webp">
+  <img alt="Alice direkte til Bob" src="/del-localhost-med-internett-pa-under-ett-minutt/alice-bob.webp">
   <figcaption>Data går direkte mellom Alice og Bob</figcaption>
 </figure>
 

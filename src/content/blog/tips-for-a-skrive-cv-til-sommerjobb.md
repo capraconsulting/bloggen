@@ -11,7 +11,7 @@ heroImage: '/tips-for-a-skrive-cv-til-sommerjobb/hero.webp'
 
 Mange skriver en CV ved å liste opp utdanning og arbeidserfaring i omvendt kronologisk rekkefølge, altså fra det nyeste til det eldste. Imidlertid bør relevans prioriteres over kronologi. For eksempel: en malejobb du gjorde for onkelen din forrige sommer er kanskje ikke direkte relevant for en utviklerstilling. Prioriter derfor de mest relevante erfaringene – som tidligere prosjekter, frivillige verv, deltidsjobber, sommerjobber og universitetsutdanning – øverst på din CV. Mindre relevante erfaringer kan inkluderes, men bør plasseres lenger ned på listen.
 
-![Illustrasjon](/public/tips-for-a-skrive-cv-til-sommerjobb/illustrasjon1.webp)
+![Illustrasjon](/tips-for-a-skrive-cv-til-sommerjobb/illustrasjon1.webp)
 
 ## 2. Hva kan inkluderes av prosjekter og erfaringer?
 
@@ -41,7 +41,7 @@ sensordata, innhentet data fra eksisterende system, persistert og gjort disse ti
 
 Mange studenter bruker illustrasjoner for å vise kompetansenivå med ulike teknologier (fig 1). Å bedømme egne ferdigheter objektivt kan være svært vanskelig, og en risikerer lett å falle for den velkjente [Dunning-Kruger-effekten](https://no.wikipedia.org/wiki/Dunning-Kruger-effekten). Selv seniorutviklere med mye erfaring er ofte forsiktige med å gi seg selv toppkarakter på en ferdighetsskala. Dessuten tar slike illustrasjoner opp mye plass. Vi mener det derfor er bedre å fokusere på konkrete prosjekter du har jobbet med og hvilken teknologi du har brukt. Dette gir en dypere innsikt i din ekspertise og setter den i en mer relevant sammenheng.
 
-![Eksempel på ferdighet rangering](/public/tips-for-a-skrive-cv-til-sommerjobb/fig1.webp)
+![Eksempel på ferdighet rangering](/tips-for-a-skrive-cv-til-sommerjobb/fig1.webp)
 
 *(Fig 1) Kilde: https://dev.to/tim012432/do-not-put-skill-bars-on-your-resume-lh6*
 
@@ -61,4 +61,4 @@ Selv om "Curriculum Vitae" er en hyppig brukt tittel på en CV, kan den ofte vir
 
 Det lønner seg alltid å be noen andre om å gjennomgå CV-en din før innsending. Friske øyne kan raskt oppdage skrivefeil, grammatikkfeil eller områder som du ikke har lagt merke til selv. Det kan også være lurt å spørre om det er noe som kan formidles klarere eller mer effektivt. Kanskje de også kan påpeke relevante erfaringer eller kvalifikasjoner som du har oversett?
 
-![Venn som ser over](/public/tips-for-a-skrive-cv-til-sommerjobb/venn.webp)
+![Venn som ser over](/tips-for-a-skrive-cv-til-sommerjobb/venn.webp)

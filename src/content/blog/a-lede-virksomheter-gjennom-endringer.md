@@ -4,6 +4,7 @@ description: 'Å lede virksomheter gjennom endringer'
 pubDate: '2023.09.13'
 author: 'Anita Jenbergsen'
 heroImage: '/a-lede-virksomheter-gjennom-endringer/hero.webp'
+tags: ['Debatt', 'Fryde']
 ---
 
 **For litt siden snakket jeg med en tidligere kollega av meg som sa noe som gjorde meg utrolig glad:**
@@ -56,6 +57,6 @@ For å møte disse utfordringene, utviklet vi nye systemer og rutiner for håndt
 Se hele historien på Fryde https://www.fryde.no/statped
 
 <figure>
-  <img alt="Blader" src="/public/a-lede-virksomheter-gjennom-endringer/plant.webp">
+  <img alt="Blader" src="/a-lede-virksomheter-gjennom-endringer/plant.webp">
   <figcaption>Foto: Min An</figcaption>
 </figure>

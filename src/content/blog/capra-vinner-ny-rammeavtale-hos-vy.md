@@ -18,6 +18,6 @@ Foruten Knowit/Capra, har Vy også valgt Twoday og Iterate som leverandører på
 Hove-Breen legger til at *“våre konsulentene stortrives hos Vy, og de er en av våre mest attraktive kunder. I tillegg til å bruke ny, relevant teknologi og organisering i utviklingsavdelingen er Vy opptatt av å være datadrevne, innovative og utfordrende. Dette synes vi er ekstra gøy å samarbeide om.”*
 
 <figure>
-  <img alt="Bilde av Oliver" src="/public/capra-vinner-ny-rammeavtale-hos-vy/oliver.webp">
+  <img alt="Bilde av Oliver" src="/capra-vinner-ny-rammeavtale-hos-vy/oliver.webp">
   <figcaption>Oliver Hove-Breen</figcaption>
 </figure>

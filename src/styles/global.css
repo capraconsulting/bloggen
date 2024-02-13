@@ -11,7 +11,7 @@
 }
 @font-face {
 	font-family: 'Inter';
-	src: url('/fonts/Inter-VariableFont_slnt,wght.tff') format('tff');
+	src: url('/fonts/Inter.tff') format('tff');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;

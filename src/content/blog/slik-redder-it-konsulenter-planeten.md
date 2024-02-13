@@ -23,7 +23,7 @@ Det finnes ofte gode løsninger som lar oss minske mengden data en nettside elle
 
 Dersom du har lyst til at brukere av løsningene skal være enda mer miljøvennlige bør du også utvilsomt optimalisere for alle typer skjermer, men særlig smarttelefoner. Det er nemlig slik at det elektriske behovet til en bærbar maskin er betraktelig lavere enn behovet til en stasjonær datamaskin, og nettbrett og smarttelefoner trenger igjen mindre elektrisitet enn laptoper. Hvem hadde trodd at en smarttelefon-optimalisert løsning kan være med på å gjøre deg til en slags miljøhelt (#ydmyk).
 
-![Person med telefon og laptop](/public/slik-redder-it-konsulenter-planeten/image.webp)
+![Person med telefon og laptop](/slik-redder-it-konsulenter-planeten/image.webp)
 
 ## Fremtiden er mer miljøvennlig og mer teknologisk
 

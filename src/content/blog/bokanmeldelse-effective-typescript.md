@@ -5,6 +5,7 @@ description: 'Anmeldelse av boksen Effective Typescript'
 pubDate: '2021.11.05'
 author: Jan Ove Kjærland
 heroImage: '/bokanmeldelse-effective-typescript.webp'
+tags: ['JavaScript', 'TypeScript', 'Frontend', 'Bokanmeldelse']
 ---
 
 *Effective TypeScript: 62 Specific Ways to Improve Your TypeScript*, av [Dan Vanderkam](https://twitter.com/danvdk), er akkurat det tittelen sier: en samling av råd for hvordan du kan jobbe effektivt med TypeScript. Boken er kort og kompakt, med konkrete og relevante eksempler. Det er nettopp dette bøker i *Effective-sjangeren* ønsker å være: De skal ikke være oppslagsverk til hvordan all funksjonaliteten i et språk funker. De skal forklare *hvilken* funksjonalitet du skal benytte deg av, og *hvorfor*. *Effective TypeScript* leverer på dette løftet.

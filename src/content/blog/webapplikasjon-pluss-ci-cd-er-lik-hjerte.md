@@ -54,7 +54,7 @@ Nå som vi har fått etablert litt kontekst, la oss ta deg med på en reise til 
 ### Steg 0 – Hva som skal lages, og hva du trenger fra før av
 
 I dette praktiske eksempelet skal vi bygge applikasjonen vist i figuren under:
-![Oversikt](/public/webapplikasjon-pluss-ci-cd-er-lik-hjerte/overview.webp)
+![Oversikt](/webapplikasjon-pluss-ci-cd-er-lik-hjerte/overview.webp)
 
 Det vi ønsker å sitte igjen med til slutt er en «pipeline» bygget opp av de følgende stegene:
 
