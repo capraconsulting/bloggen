@@ -5,6 +5,7 @@ description: 'I år kom ECMAScript 2023, også kjent som ES14. Denne utgaven har
 pubDate: '2023.08.23'
 author: Gaute Meek Olsen
 heroImage: '/js-hero.webp'
+tags: ['Frontend', 'JavaScript']
 ---
 
 ## Bakgrunn

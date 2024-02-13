@@ -5,6 +5,7 @@ description: 'Ørjan Bøe Thygesen trer inn i rollen etter 7 år i Capra Consult
 pubDate: '2022.02.02'
 author: Julie Eldøy
 heroImage: '/tar-over-som-daglig-leder-i-capra-consulting.webp'
+tags: ['Capra folk']
 ---
 
 Aslak fortsetter som konsernsjef for Capra Group og forteller at han gleder seg til å se hva Ørjan vil gjøre som daglig leder.

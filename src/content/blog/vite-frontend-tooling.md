@@ -4,6 +4,7 @@ description: 'Vite er en ny lynrask frontend tooling. Les mer om den'
 pubDate: '2021.09.23'
 author: Gaute Meek Olsen
 heroImage: '/vite-frontend-tooling/hero.webp'
+tags: ['Frontend', 'Vite']
 ---
 
 Jeg begynner å bli lei av treg frontend tooling, så i dag har jeg lyst til å fortelle om [Vite](https://vitejs.dev/), som tar hånd om dev server, Hot Module Replacement (HMR) og bygging av koden - og dét lynkjapt!

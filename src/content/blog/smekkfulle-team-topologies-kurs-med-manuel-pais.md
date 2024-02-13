@@ -5,6 +5,7 @@ description: 'Smekkfulle Team Topologies-kurs med Manuel Pais'
 pubDate: '2023.09.21'
 author: 'Malin Aandahl'
 heroImage: '/smekkfulle-team-topologies-kurs-med-manuel-pais/hero.webp'
+tags: ['TPU']
 ---
 
 ### Hva er Team Topologies?

@@ -5,6 +5,7 @@ description: 'Hvordan tilpasse seg voksenlivet, finne ut hvordan en teambasert o
 pubDate: '2022.03.24'
 author: Kristina Hovland Berg
 heroImage: '/team-og-troll-erfaringer-fra-en-helt-vanlig-geit/hero.webp'
+tags: ['Meninger', 'Capra folk']
 ---
 
 I 2020 bestemte Capras “Team Topologies”-entusiaster seg for å kaste ledergruppen ut av 14. etasje og kjøre sjappa inn i en splitt-og-hersk-revolusjon – en *splitt-opp-i-team*-revolusjon. Mine kollegaer Sondre og Gustav har gjennom sine Team Topologies-briller [skrevet om hva vi som selskap har lært etter denne omorganiseringen](/to-ar-senere-dette-har-vi-laert-siden-vi-anvendte-team-topologies). Men hva har egentlig en enkel nyutdannet utvikler-geit lært?

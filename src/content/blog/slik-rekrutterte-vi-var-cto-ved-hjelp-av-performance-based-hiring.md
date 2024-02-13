@@ -5,6 +5,7 @@ description: 'Med Performance-based Hiring rekrutterte vi en CTO som kunne løse
 pubDate: '2020.11.09'
 author: Morten Gran Kristoffersen
 heroImage: '/slik-rekrutterte-vi-var-cto-ved-hjelp-av-performance-based-hiring/hero.webp'
+tags: ['Rekruttering', 'Capra folk']
 ---
 
 Mange vil nok leie inn et byrå for å finne sin nye CTO. Derimot, ønsket vi å ta saken i egne hender og stole på metodikken som vi bruker til å ansette resten av selskapet. Vi mente det var rett og rimelig at kandidaten skulle se hvordan vi rekrutterte -kandidatopplevelsen fra A til Å - og dermed komme med innspill og tanker om forbedringer av prosessen vår.

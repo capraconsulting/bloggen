@@ -5,6 +5,7 @@ description: 'Bør man prioritere å ta sertifiseringer i AWS eller andre skytek
 pubDate: '2020.03.13'
 author: Julie Minsaas
 heroImage: '/fra-skolebenken-til-sky.webp'
+tags: ['Capra folk', 'Sky']
 ---
 
 AWS-sertifiseringer åpner nye dører

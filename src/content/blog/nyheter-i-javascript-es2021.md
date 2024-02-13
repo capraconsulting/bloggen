@@ -5,6 +5,7 @@ description: 'I juni 2021 kom det en håndfull med nye features i JavaScript spr
 pubDate: '2021.08.05'
 author: Gaute Meek Olsen
 heroImage: '/js-hero.webp'
+tags: ['Frontend', 'JavaScript']
 ---
 
 ## TLDR - Too Long, Didn't Read

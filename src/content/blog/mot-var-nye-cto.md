@@ -5,6 +5,7 @@ description: 'Denne måneden begynte Heidi Brovold i stillingen som CTO i Capra,
 pubDate: '2020.04.22'
 author: Julie Minsaas
 heroImage: '/mot-var-nye-cto.webp'
+tags: ['Capra folk']
 ---
 
 Så hvem er Heidi? Her kan du bli litt bedre kjent med henne!

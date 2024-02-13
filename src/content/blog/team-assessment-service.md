@@ -5,6 +5,7 @@ description: 'Gustav Dyngeseth fra Capra Consulting omtaler tre bøker innen TPU
 pubDate: '2021.12.17'
 author: Gustav Dyngeseth
 heroImage: '/team-assessment-service.webp'
+tags: ['Prosjektledelse', 'TPU']
 ---
 
 I Capra elsker vi team, og har engasjerte konsulenter innenfor teamledelse og smidig coaching som til daglig jobber med å videreutvikle høypresterende team, både internt og ute hos kunder. En viktig del av arbeidet som gjøres er å bygge nye team som med glede og engasjement leverer riktig og god software, i like stor grad som vi videreutvikler eksisterende team. I de tilfellene vi involveres for å bistå eksisterende team, er første handlingspunkt ofte en kartlegging av teamets nåværende nivå. For å gjennomføre dette har vi utviklet en konkret tjeneste vi har døpt *Team Assessment Service (TAS)*. Tjenesten kan bla. anvendes på utviklerteam som leverer programvare eller ulike lederteam, men den kan også tilbys andre team ved å tilpasse den kvantitative undersøkelsen til teamets respektive spillefelt.

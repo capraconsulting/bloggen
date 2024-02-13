@@ -5,6 +5,7 @@ description: 'Hein Kristiansen fra Capra Consulting forklarer hvordan håndtere 
 pubDate: '2021.12.01'
 author: Hein Kristiansen
 heroImage: '/kloke-valg-ikke-ytterligere-tiltak.webp'
+tags: ['Sky', 'Meninger', 'AWS']
 ---
 
 Heldigvis har vi nå fått en ny veileder fra Datatilsynet om overføring av personopplysninger utenfor EØS. Denne gir oss grunnlaget for å gjøre en risikobasert vurdering: Opererer vi i tråd med gjeldende lover og regler? La oss se hvordan en slik vurdering kan gjøres.

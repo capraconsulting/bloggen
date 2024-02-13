@@ -5,6 +5,7 @@ description: 'Vi ser at fokuset i bransjen skifter fra «valg av tech» til et �
 pubDate: '2020.04.26'
 author: Sandra Skarshaug
 heroImage: '/key-takeaways-fra-frontend-workshop.webp'
+tags: ['Frontend']
 ---
 
 Helt kort oppsummert: Vi vil som frontend-utviklere bli bedre på totalopplevelsen til sluttbrukeren, og ha mer fokus på ytelse i nettleseren. Vi opplever at fokus i bransjen gradvis skifter bort fra «valg av tech» og «hvilke biblioteker bør vi bruke?», til et ønske om å ta helhetlig ansvar for hva som leveres til sluttbrukere.

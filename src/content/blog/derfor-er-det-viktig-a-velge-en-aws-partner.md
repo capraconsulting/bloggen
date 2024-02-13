@@ -5,6 +5,7 @@ description: 'Hos Capra har vi over 25 medarbeidere med ulike AWS sertifiseringe
 pubDate: '2020.04.21'
 author: Hein Kristiansen
 heroImage: '/derfor-er-det-viktig-a-velge-en-aws-partner.webp'
+tags: ['Sky']
 ---
 
 ## Hva er en AWS partner?

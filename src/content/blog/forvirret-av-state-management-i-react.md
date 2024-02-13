@@ -5,6 +5,7 @@ description: 'State management i React er ikke alltid like lett. Denne er artikk
 pubDate: '2022.06.08'
 author: Camilla Marie Dalan
 heroImage: '/forvirret-av-state-management-i-react/hero.webp'
+tags: ['Frontend', 'JavaScript']
 ---
 
 I denne artikkelen skal jeg prøve å gjøre state litt mer forståelig. Jeg skal i hvert fall gjøre et godt forsøk. 😬

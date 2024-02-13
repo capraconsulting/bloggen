@@ -5,6 +5,7 @@ description: 'I juni 2020 kom det en håndfull nye features i JavaScript-språke
 pubDate: '2020.06.25'
 author: Gaute Meek Olsen
 heroImage: '/js-hero.webp'
+tags: ['Frontend', 'JavaScript']
 ---
 
 ## TLDR - To Long, Didn't Read

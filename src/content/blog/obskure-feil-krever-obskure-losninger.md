@@ -4,6 +4,7 @@ description: 'Hva gjør du når alle lamper lyser rødt, og du ikke klarer å fi
 pubDate: '2020.06.04'
 author: Håkon Meyer Tørnquist
 heroImage: '/obskure-feil-krever-obskure-losninger.webp'
+tags: ['Meninger', 'Frontend']
 ---
 
 I blant dukker det opp bugs i produksjon. Noen ganger er det alvorlige feil som truer en hel [organisasjons eksistens](https://medium.com/dataseries/the-rise-and-fall-of-knight-capital-buy-high-sell-low-rinse-and-repeat-ae17fae780f6), andre ganger har du ved et uhell lagt ut hjelpeteksten i appen din på tysk. For å unngå de mest voldsomme konsekvensene, er det lurt å holde et øye med appene dine, men hva gjør du når alle lamper lyser rødt, og du ikke klarer å finne ut av hvorfor?

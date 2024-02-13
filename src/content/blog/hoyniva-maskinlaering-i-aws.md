@@ -5,6 +5,7 @@ description: 'Vi tar for oss hva AWS kan tilby innen maskinlæring, samt gi en s
 pubDate: '2021.07.07'
 author: Harald Vinje
 heroImage: '/hoyniva-maskinlaering-i-aws/hero.webp'
+tags: ['Maskinlæring', 'AWS']
 ---
 
 Det er ingen hemmelighet at vi i Capra er glade i Amazon Web Service (AWS), og det brede spekteret av tjenester AWS har å tilby for å gjøre hverdagen til oss utviklere lettere, billigere, og mer fleksibel. Når IT-konsulenter flest hører AWS, tenker nok mange først og fremst på tjenester som fillagring, server- og databasehosting, serverless lambdafunksjoner, og kanskje containter services. Men visste du at AWS også har et rikt sett med tjenester for oss maskinlæringsinteresserte? Noen av disse tjenestene skal vi se mer på i dag!

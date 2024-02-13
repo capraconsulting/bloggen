@@ -5,6 +5,7 @@ description: 'Luk bort feil som gir dårlig brukeropplevelse med Google Lighthou
 pubDate: '2020.11.30'
 author: Gaute Meek Olsen
 heroImage: '/kvalitetssikre-nettsiden-med-lighthouse/hero.webp'
+tags: ['Frontend']
 ---
 
 Den beste måten å kvalitetssikre en nettside på, er ved å forstå hvordan brukerne interagerer med den og hva de synes. Men ofte har man ikke denne innsikten, enten fordi man mangler kapasitet til å kartlegge det eller man ikke vet hvem brukerne er.

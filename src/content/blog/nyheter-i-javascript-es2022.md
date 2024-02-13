@@ -5,6 +5,7 @@ description: 'I juni 2022 kom det en håndfull nye features i JavaScript. Les me
 pubDate: '2022.06.28'
 author: Gaute Meek Olsen
 heroImage: '/nyheter-i-javascript-es2022.webp'
+tags: ['Frontend', 'JavaScript']
 ---
 
 ## TLDR - Too Long, Didn't Read

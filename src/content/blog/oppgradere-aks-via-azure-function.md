@@ -5,6 +5,7 @@ description: 'En kort introduksjon til bruk av Azure Functions for automatisk op
 pubDate: '2022.02.21'
 author: Mina Farrokhnia
 heroImage: '/oppgradere-aks-via-azure-function/hero.webp'
+tags: ['Azure', 'Python']
 ---
 
 Alle som driver med drift innen IT, vet hvor viktig det er med automatisering av prosesser. Oppgradering av Kubernetes er et eksempel på en tilbakevendende oppgave som kan ta opp mye tid. For hver ny versjon skal oppgraderingene gjøres i en bestemt rekkefølge: først utvikler-miljøet, deretter diverse testmiljøer, osv. Til sist skal produksjonsmiljøet oppgraderes, gjerne etter en vilkårlig utsettelsesperiode.

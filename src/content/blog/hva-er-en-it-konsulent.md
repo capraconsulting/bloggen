@@ -5,6 +5,7 @@ description: 'Behovet for gode IT-systemer gir et økende behov for dyktige menn
 pubDate: '2022.04.28'
 author: Melanie B. Jørgensen
 heroImage: '/hva-er-en-it-konsulent.webp'
+tags: ['Capra folk']
 ---
 
 En IT-konsulent har som oftest vært innom flere forskjellige domener, teknologier, team og utfordringer. Ikke minst har de et nettverk og fagmiljø som gjør at de får impulser fra flere kollegaer. Dette tror vi er en av de klareste tingene som skiller seg ut ved å være en IT-konsulent: læringskurvene og kunnskapen den besitter. Det er ikke uten grunn at vi i Capra satser stort på fagmiljøene våre.

@@ -5,6 +5,7 @@ description: 'Vi har flere tips og verktøy for å effektivisere tiden du bruker
 pubDate: '2021.10.11'
 author: Nicolas Harlem Eide
 heroImage: '/internett-tidsbruk.webp'
+tags: ['Produktivitet']
 ---
 
 I løpet av én dag har jeg pleid å bruke det som er rundt gjennomsnittlig tid for min aldersgruppe på nett: Ca. 5-7 timer per dag. Personlig syns jeg dette er alt for mye, og jeg får ikke noe glede av det etter å ha holdt på en stund. Da ender jeg bare opp med å "zombie-scrolle" for å få neste "hit" av content.

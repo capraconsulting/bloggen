@@ -4,6 +4,7 @@ description: 'Inspirert av boken Team Topologies har Capra nylig gått fra å v�
 pubDate: '2020.11.06'
 author: Stein-Otto Svorstøl
 heroImage: '/slik-reorganiserer-vi-capra/hero.webp'
+tags: ['Capra folk']
 ---
 
 Høsten 2019 valgte vi i Capra å fornye vår strategi. Prosessen omfattet en krevende kartlegging av organisasjonen og markedet, hvor vi identifiserte de største utfordringene vi så for oss de kommende årene, blant annet vår evne til å håndtere økende antall ansatte uten å miste autonomien. For å adressere denne veksten, samt større trykk på intern drift, besluttet ledergruppen å innføre en ny organisasjonsstruktur som ville tjene oss bedre.

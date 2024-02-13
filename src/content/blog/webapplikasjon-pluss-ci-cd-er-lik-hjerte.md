@@ -5,6 +5,7 @@ description: 'I denne artikkelen gir vi en liten intro til kjerneprinsipper inne
 pubDate: '2020.03.06'
 author: Erlend Ekern og Stian Steinbakken
 heroImage: '/webapplikasjon-pluss-ci-cd-er-lik-hjerte/hero.webp'
+tags: ['DevOps']
 ---
 
 ***Fortvil ikke!** I dag skal vi vise deg hvordan du kan automatisere alt som skjer fra «commit» på GitHub, frem til kodeendringen er blitt kvalitetskontrollert, gjort produksjonsklar og sendt ut til produksjonsmiljø og sluttbrukere 🧙!*

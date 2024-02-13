@@ -4,6 +4,7 @@ description: 'Nå har du muligheten til å utvide vanlige HTML tags med egen log
 pubDate: '2020.11.17'
 author: Anders Olav Candasamy
 heroImage: '/server-side-rendered-custom-elements.webp'
+tags: ['Frontend']
 ---
 
 Custom Elements er en nyere teknologi som i dag støttes av de [fleste moderne nettlesere](https://caniuse.com/custom-elementsv1). Med dette har vi mulighet til å utvide vanlige HTML tags med egen logikk og lage avanserte komponenter.

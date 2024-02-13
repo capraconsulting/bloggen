@@ -5,6 +5,7 @@ description: 'Det er ikke bare staten sitt ansvar å vedlikeholde aktiviteten i 
 pubDate: '2020.03.27'
 author: Aslak Ege
 heroImage: '/det-er-ikke-bare-statens-ansvar-aa-holde-aktivitet-i-okonomien.webp'
+tags: ['Debatt']
 ---
 
 Det er ekstremt gledelig å se at dugnadsånden for alvor er levende i den norske befolkningen. Vi hører daglig om de som vil bli rammet, spesielt økonomisk, i en tid der mange sitter hjemme og jobber og det er restriksjoner på arrangementer og aktivitet i samfunnet. For oss som privatpersoner kommer det oppfordringer om å [ikke be om refusjon](https://www.nrk.no/tromsogfinnmark/oppfordrer-folk-til-a-ikke-be-om-pengene-tilbake-fra-arrangementer-1.14940439) på arrangementer vi har kjøpt billett til, da dette er penger du som privatperson allerede har avskrevet i husholdningsbudsjettet. Konsekvensen ved å be om refusjon f.eks. vil bety en mindre konsert i nærområdet eller et dårligere fritidstilbud på sikt. Vi tenker langsiktig og på tiden da Norge kommer tilbake til normalen.

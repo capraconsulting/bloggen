@@ -5,6 +5,7 @@ description: 'Den digitale revolusjonen har gjort det mulig for bedrifter å ta 
 pubDate: '2020.03.18'
 author: Therese Engen
 heroImage: '/slik-redder-it-konsulenter-planeten/hero.webp'
+tags: ['Meninger', 'Teknisk prosjektledelse']
 ---
 
 Den digitale revolusjonen har gjort det mulig for bedrifter å ta enkle, effektive og mer miljøvennlige valg på arbeidsplassen. Dokumenter arkiveres elektronisk og møter kan føres via videotjenester, noe som sparer inn på både reiseutgifter og utslipp av CO2. Etterhvert som de elektroniske duppedingsene på arbeidsplassen utvikles, får de også lenger levetid, holdbarhet og krever mindre energi. Heia fremgang og miljøvennlighet!

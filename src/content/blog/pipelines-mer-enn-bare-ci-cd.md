@@ -5,6 +5,7 @@ description: 'De kan brukes til mye mer.'
 pubDate: '2023.01.12'
 author: 'Mina Farrokhnia'
 heroImage: '/pipelines-mer-enn-bare-ci-cd/hero.webp'
+tags: ['Sky']
 ---
 
 De fleste av oss har med årene blitt godt kjent med bruk av automatisering for å understøtte smidig utvikling. Verktøyene som hjelper oss med dette blir stadig bedre, og enhver plattform med respekt for seg selv tilbyr nå sin egen løsning for automatisering. Ofte kaller vi bare dette for “pipelines”. Men disse verktøyene har en rekke andre bruksområder utover bygg, test og deployment.

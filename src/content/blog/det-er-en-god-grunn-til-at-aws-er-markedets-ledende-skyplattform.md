@@ -5,6 +5,7 @@ description: 'Den sterke veksten til Amazon Web Services har ført til at de er 
 pubDate: '2020.04.19'
 author: Hein Kristiansen
 heroImage: '/det-er-en-god-grunn-til-at-aws-er-markedets-ledende-skyplattform.webp'
+tags: ['Sky', 'Meninger']
 ---
 
 Skyplattformer er i vinden som aldri før, og i dag finnes det flere konkurrenter å titte på. Du trenger derimot ikke lete lenge før du oppdager at Amazon Web Services har en betydelig ledelse. Vi kunne snakket i timevis om hvorfor vi digger AWS, men det er nok kun vi som synes slikt snakk er spennende. Det du kanskje er mer interessert i er *hva* som gjør AWS så mye bedre. Vel, plattformen har et svært viktig aspekt som taler for seg. Størrelse.

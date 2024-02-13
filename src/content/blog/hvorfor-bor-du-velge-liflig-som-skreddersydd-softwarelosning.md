@@ -5,6 +5,7 @@ description: 'Liflig er en tjeneste som gir deg en skreddersydd softwareløsning
 pubDate: '2020.03.13'
 author: Rolf Rønning
 heroImage: '/hvorfor-bor-du-velge-liflig-som-skreddersydd-softwarelosning/hero.webp'
+tags: ['Liflig']
 ---
 
 Du vet hvor behagelig det er de gangene du spiser på restaurant, bestiller det du vil ha og bare får det servert? En luksus som mange kan være enige om at slår både hjemmelaget slit og rask ferdigmat. Vel, den følelsen kan du få med Liflig også. Capras kloke hoder har nemlig utviklet et konsept som tar seg av de største utfordringene softwareløsninger byr på.

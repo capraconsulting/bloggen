@@ -5,6 +5,7 @@ description: 'Hos oss får du frihet, muligheten til å utvikle deg, vokse og f�
 pubDate: '2020.03.18'
 author: Øystein Løvberg
 heroImage: '/hva-er-viktigere-enn-lonn-for-it-konsulenter/hero.webp'
+tags: ['Meninger', 'Rekruttering', 'Capra folk']
 ---
 
 Så lenge man tjener godt nok og ikke må slite for å få endene til å møtes, er det mange som mener at det finnes flere faktorer på arbeidsplassen som trumfer lønna. [Arbeidsmiljøet](https://hmsmagasinet.no/arbeidsgiver-arbeidsmiljo-lonn/arbeidsmiljo-er-viktigere-enn-lonn/234981) er for eksempel det de fleste peker på når de blir bedt om å beskrive det viktigste på jobb.

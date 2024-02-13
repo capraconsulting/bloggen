@@ -4,6 +4,7 @@ description: 'Bruk chatGPT for å finne ut hva du skal ha til middag!'
 pubDate: '2023.05.12'
 author: 'Kristina Hovland Berg'
 heroImage: '/chatgpt-react-middag/hero.webp'
+tags: ['Frontend']
 ---
 
 Med mindre du har levd under en stein de siste månedene, så har du fått med deg hvordan [OpenAI](https://openai.com/) sin ChatGPT har skapt global oppmerksomhet. Dette er et mektig verktøy som dytter oss et stort steg inn i framtiden, og kan løse det største I-landsproblemet av dem alle: “Hva skal vi spise til middag i dag?” Her er en guide om hvordan man kan bruke OpenAI med React.

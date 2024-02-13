@@ -5,6 +5,7 @@ description: 'Gustav Dyngeseth fra Capra Consulting omtaler tre bøker innen TPU
 pubDate: '2021.12.10'
 author: Gustav Dyngeseth
 heroImage: '/bokanmeldelse-tre-boker-innen-team-prosjekt-og-utviklingsledelse/hero.webp'
+tags: ['TPU', 'Bokanmeldelse', 'Prosjektledelse']
 ---
 
 I Capra elsker vi faglitteratur. Vi verdsetter å dele kunnskap med hverandre, kunnskap basert på vitenskap kombinert med relevante erfaringer, og et hofteskudd i ny og ne. Derfor har vi en boksirkel som muliggjør kombinasjonen av alle disse faktorene i en uformell setting. Boksirkelen foregår månedlig, og involverer fagpersoner med ulike bakgrunner. Det er en super arena for å dele erfaringer og drøfte nye tanker fra moderne faglitteratur innen team-, prosjekt- og utviklingsledelse. Nedenfor er en kort oppsummering av tre favoritter vi har vært gjennom siste året.

@@ -5,6 +5,7 @@ description: 'Docs-as-code gjør dokumentasjon av koding enklere! Bruk eksistere
 pubDate: '2021.05.25'
 author: Nicolas Harlem Eide
 heroImage: '/docs-as-code/hero.webp'
+tags: ['Backend', 'Frontend']
 ---
 
 Å skrive dokumentasjon til koden, ser jeg på som en vane, og som med mange vaner må man legge til rette for det. Om du vil begynne å jogge, så viser forskning at man har en høyere sannsynlighet for å fortsette å gjøre det ved blant annet å *legge miljøet opp til det*. Så hvordan kan vi bruke lærdommen om at vaner kommer gjennom miljø til å skrive mer dokumentasjon? Her kommer *dokumentasjon som kode* inn på banen.

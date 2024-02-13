@@ -5,6 +5,7 @@ description: 'Takeaways etter to år med Team Topologies. Les dem her.'
 pubDate: '2022.01.28'
 author: Sondre Brekke og Gustav Dyngeseth
 heroImage: '/to-ar-senere-dette-har-vi-laert-siden-vi-anvendte-team-topologies/hero.webp'
+tags: ['TPU', 'Prosjektledelse']
 ---
 
 I bloggartikkelen [Slik reorganiserer vi Capra](/slik-reorganiserer-vi-capra) (november 2020), går Stein-Otto gjennom bakgrunnen for omorganiseringen, veien til en nettverksorganisasjon og den faktiske organiseringen vår på daværende tidspunkt. Vi anbefaler sterkt å lese denne før du går videre, men vi har likevel prøvd å oppsummerer de viktigste punktene i de to kommende avsnittene.

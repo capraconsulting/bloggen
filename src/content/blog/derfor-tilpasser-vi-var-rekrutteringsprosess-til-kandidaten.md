@@ -5,6 +5,7 @@ description: 'I Capra vokser vi med omtrent 20 personer i året. Er du nysgjerri
 pubDate: '2020.03.25'
 author: Morten Gran Kristoffersen
 heroImage: '/derfor-tilpasser-vi-var-rekrutteringsprosess-til-kandidaten.webp'
+tags: ['Rekruttering', 'Capra folk']
 ---
 
 I Capra ansetter vi talenter og seniorer innen utvikling, infrastruktur, arkitektur og prosess- og prosjektledere. Hvis du er nysgjerrig på [våre teknologivalg, så finner du det her](https://www.capraconsulting.no/tjenester/hva-vi-kan). Dette innlegget fokuserer på vår rekrutteringsprosess for deg som er i jobb.

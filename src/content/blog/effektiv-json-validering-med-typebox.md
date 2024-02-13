@@ -5,6 +5,7 @@ description: 'Effektiv JSON validering med TypeBox'
 pubDate: '2022.08.24'
 author: Anders Olav Candasamy
 heroImage: '/effektiv-json-validering-med-typebox/hero.webp'
+tags: ['TypeScript', 'Frontend']
 ---
 
 Det er lett å tro at dersom du skriver koden din i TypeScript, så ender du ikke opp med typefeil: `Uncaught TypeError: Cannot read property 'foo' of undefined`. Men hvorfor ikke?

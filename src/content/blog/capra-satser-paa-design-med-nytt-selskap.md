@@ -5,6 +5,7 @@ description: 'Capra Group består av konsulentselskapet, Capra Consulting, og pr
 pubDate: '2022.10.31'
 author: ''
 heroImage: '/capra-satser-paa-design-med-nytt-selskap.webp'
+tags: ['Fryde']
 ---
 
 – Det vi kan er digital tjenesteutvikling. Vi har noen av landets sterkeste fagmiljøer innen utvikling, arkitektur, sky, teamledelse og organisasjonsdesign. Men teknologi handler til syvende og sist om mennesker, og det er der Anita og designselskapet vil komplementere oss og øke verdien vi kan skape for kundene, sier Aslak, konsernsjef i Capra Group.

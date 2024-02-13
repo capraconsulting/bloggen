@@ -5,6 +5,7 @@ description: 'Ved å bruke migrering fra Google Cloud Platform (GCP) til Azure s
 pubDate: '2022.03.01'
 author: Mina Farrokhnia
 heroImage: '/migrering-av-terraform-state-mellom-skyplattformer/hero.webp'
+tags: ['Azure', 'Sky', 'Terraform']
 ---
 
 Noen ganger får man behov for å flytte filer fra en skyplattform til en annen. Det kan være på grunn av bytte av skyleverandør, eller kanskje man bare ønsker å konsolidere all lagring på en enkel tjeneste i et multicloud-miljø. En liten, men viktig detalj i migrasjonen er å bytte backend for Terraform. Må jeg kopiere over Terraform sin state manuelt? Er navnekonvensjonen på filene til Terraform lik på tvers av backend provider? Hva skjer med workspaces?

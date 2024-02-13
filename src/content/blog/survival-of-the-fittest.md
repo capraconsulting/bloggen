@@ -5,6 +5,7 @@ description: 'Det kan ofte virke som maskinlæring og &quot;AI&quot; krever en m
 pubDate: '2020.08.14'
 author: Stian Steinbakken
 heroImage: '/survival-of-the-fittest/hero.webp'
+tags: ['Maskinlæring']
 ---
 
 I denne artikkelen skal jeg gå gjennom de grunnleggende stegene i en evolusjonær algoritme, og gi et praktisk eksempel i Kotlin på hvordan vi kan bruke disse til å approksimere Traveling Salesperson Problem (TSP).

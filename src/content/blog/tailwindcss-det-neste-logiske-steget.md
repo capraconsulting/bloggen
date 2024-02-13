@@ -5,6 +5,7 @@ description: 'I 2017 ble TailwindCSS lansert, og med det en ny tilnærming til �
 pubDate: '2021.06.08'
 author: Øyvind Aukner
 heroImage: '/tailwindcss-det-neste-logiske-steget/hero.svg'
+tags: ['Frontend']
 ---
 
 ## Vanligvis...
