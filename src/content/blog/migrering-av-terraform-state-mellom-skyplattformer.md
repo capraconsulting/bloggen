@@ -4,7 +4,7 @@ intro: 'Ved å bruke migrering fra Google Cloud Platform (GCP) til Azure som eks
 description: 'Ved å bruke migrering fra Google Cloud Platform (GCP) til Azure som eksempel, skal jeg gjennom denne artikkelen vise prosessen å bytte backend for Terraform mellom skyplattformer.'
 pubDate: '2022.03.01'
 author: Mina Farrokhnia
-heroImage: '/migrering-av-terraform-state-mellom-skyplattformer/hero.webp'
+heroImage: '/innhold/migrering-av-terraform-state-mellom-skyplattformer/hero.webp'
 tags: ['Azure', 'Sky', 'Terraform']
 ---
 
@@ -18,21 +18,21 @@ Som en del av Terraform-prosjektet definerer vi en backend. Denne peker til hvor
 
 Her er et backend-oppsett som peker på en Cloud Storage-ressurs på GCP:
 
-![Terraform kode](/migrering-av-terraform-state-mellom-skyplattformer/kode1.webp)
+![Terraform kode](/innhold/migrering-av-terraform-state-mellom-skyplattformer/kode1.webp)
 
 Det første steget i migrasjonen er å kjøre “terraform init” med nåværende backend. Dette er viktig for at Terraform får med seg alle workspaces.
 
 Neste steg er å endre backend i prosjektet til å bruke Azure. For å få til det må du først lage en Storage Account og container gjennom Azure Storage. Her brukte jeg et annet Terraform-prosjekt til å lage en Azure Storage account og deretter en container:
 
-![Terraform kode](/migrering-av-terraform-state-mellom-skyplattformer/kode2.webp)
+![Terraform kode](/innhold/migrering-av-terraform-state-mellom-skyplattformer/kode2.webp)
 
 Her ser vi vår container på Azure Storage, klar til bruk:
 
-![Azure storage](/migrering-av-terraform-state-mellom-skyplattformer/azure-storage.webp)
+![Azure storage](/innhold/migrering-av-terraform-state-mellom-skyplattformer/azure-storage.webp)
 
 I prosjektet jeg ønsket å migrere, byttet jeg så backend-oppsett til å peke på min nye Azure Storage container:
 
-![Terraform kode](/migrering-av-terraform-state-mellom-skyplattformer/kode3.webp)
+![Terraform kode](/innhold/migrering-av-terraform-state-mellom-skyplattformer/kode3.webp)
 
 Etter det må “terraform init” kjøres igjen. Terraform vil oppdage at du har byttet backend provider, og du får valget om å overføre tilstanden:
 
@@ -60,7 +60,7 @@ Etter det må “terraform init” kjøres igjen. Terraform vil oppdage at du ha
 
 Når Terraform har kjørt ferdig vil migrasjonen være ferdig. Om du sjekker din container på Azure Storage vil du se at alle tfstate-filene, for alle workspaces er overført:
 
-![Azure storage](/migrering-av-terraform-state-mellom-skyplattformer/azure-storage2.webp)
+![Azure storage](/innhold/migrering-av-terraform-state-mellom-skyplattformer/azure-storage2.webp)
 
 ## Kort oppsummert
 

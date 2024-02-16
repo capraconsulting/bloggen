@@ -4,7 +4,7 @@ intro: 'Hvordan tilpasse seg voksenlivet, finne ut hvordan en teambasert organis
 description: 'Hvordan tilpasse seg voksenlivet, finne ut hvordan en teambasert organiseringsstruktur fungerer og få hjulene til å rulle i et nytt team?'
 pubDate: '2022.03.24'
 author: Kristina Hovland Berg
-heroImage: '/team-og-troll-erfaringer-fra-en-helt-vanlig-geit/hero.webp'
+heroImage: '/innhold/team-og-troll-erfaringer-fra-en-helt-vanlig-geit/hero.webp'
 tags: ['Meninger', 'Capra folk']
 ---
 
@@ -26,7 +26,7 @@ Som et nytt team så handlet mye av det første året om å finne ut hvilke arbe
 
 Vi er nok alle enige om at noen kjipe oppgaver *må* bare gjøres for å drive sjappa videre, men når *alle* oppgaver føles kjipe, så skranter motivasjonen. Den dårlige samvittigheten for å ikke gjøre oppgavene, derimot, den fortsatte å vokse. Her burde vi vært flinkere til å sette harde grenser for hva TSO egentlig skulle drive med. Men, som den minste geitebukken har man ikke tidenes selvtillit, og vi ville gjerne føye oss etter det den største Bukken Bruse sa. Likevel, vi ble spist av trollet.
 
-![Følelse akse](/team-og-troll-erfaringer-fra-en-helt-vanlig-geit/akse.webp)
+![Følelse akse](/innhold/team-og-troll-erfaringer-fra-en-helt-vanlig-geit/akse.webp)
 
 ## I etterpåklokskapens navn
 

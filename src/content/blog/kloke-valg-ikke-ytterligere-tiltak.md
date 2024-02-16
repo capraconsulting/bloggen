@@ -4,7 +4,7 @@ intro: 'Som følge av den såkalte Schrems II-dommen har vi fått et nytt begrep
 description: 'Hein Kristiansen fra Capra Consulting forklarer hvordan håndtere persondata i skyen med kloke valg, ikke ytterligere tiltak'
 pubDate: '2021.12.01'
 author: Hein Kristiansen
-heroImage: '/kloke-valg-ikke-ytterligere-tiltak.webp'
+heroImage: '/innhold/kloke-valg-ikke-ytterligere-tiltak.webp'
 tags: ['Sky', 'Meninger', 'AWS']
 ---
 

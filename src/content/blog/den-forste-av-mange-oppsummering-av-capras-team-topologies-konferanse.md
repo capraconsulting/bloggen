@@ -4,7 +4,7 @@ intro: 'Tidligere i september samlet Capra over 80 ulike selskap på Rebel i Osl
 description: 'Tidligere i september samlet Capra over 80 ulike selskap på Rebel i Oslo for verdens aller første Team Topologies-konferanse. Her følger en oppsumering.'
 pubDate: '2022.10.17'
 author: Sondre Brekke
-heroImage: '/den-forste-av-mange-oppsummering-av-capras-team-topologies-konferanse.webp'
+heroImage: '/innhold/den-forste-av-mange-oppsummering-av-capras-team-topologies-konferanse.webp'
 ---
 
 Team Topologies, boken som ble sluppet i 2019, presenterer en måte å drive moderne softwareutvikling på. Boken har fokus på hvordan optimalisere organisasjoner for flyt gjennom tverrfaglige team, og er skrevet av Manuel Pais og Matthew Skelton. I løpet av dagen hørte vi fra nevnte Pais, i tillegg til representanter fra noen av Norges største selskaper. Konferansen rundet av med en paneldebatt med tema “Er Team Topologies egentlig for alle? Erfaringer og utfordringer”. Denne bloggartikkelen har som hensikt å oppsummere de viktigste læringspunktene.

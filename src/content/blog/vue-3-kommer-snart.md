@@ -3,7 +3,7 @@ title: 'Vue 3 kommer snart!'
 description: 'Jeg har nå lekt en del med Vue 3, og det er bare å glede seg! La meg dele noe av det jeg har lært. I følge deres roadmap så planlegger de en utgivelse i slutten av Q2 2020. I dag er beta-versjonen publisert. Merk at det fortsatt kan komme små endringer. Men hvis du vil ha et forsprang, så kan denne artikkelen skrevet 30. april 2020 hjelpe deg.'
 pubDate: '2020.04.29'
 author: Gaute Meek Olsen
-heroImage: '/vue-3-kommer-snart/hero.webp'
+heroImage: '/innhold/vue-3-kommer-snart/hero.webp'
 tags: ['Frontend']
 ---
 
@@ -17,7 +17,7 @@ Du kan allerede nå lage et Vue 3 prosjekt. Men husk at offisiell dokumentasjon 
 
 Den største forandringen med Vue 3 er at den er skrevet om fra bunnen av, men for oss utviklere så vil det kodemessig være så og si helt likt. Men dette gir oss et mye bedre produkt. Vue var allerede raskt, men har nå store ytelse og minne forbedringer, og tree shaking(eliminerer ubrukt kode) gir mindre produksjonsfiler.
 
-![Sonic](/vue-3-kommer-snart/sonic.gif)
+![Sonic](/innhold/vue-3-kommer-snart/sonic.gif)
 
 De har også skrevet Vue 3 i TypeScript, noe som gjør at prosjektet er mer vedlikeholdbart for Vue teamet. Men dette gir også oss noen fordeler, selv om du setter opp prosjektet ditt med JavaScript eller TypeScript så vil du få bedre IntelliSense og typeahead.
 

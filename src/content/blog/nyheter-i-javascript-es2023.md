@@ -4,7 +4,7 @@ intro: 'I år kom ECMAScript 2023, også kjent som ES14. Denne utgaven har lagt 
 description: 'I år kom ECMAScript 2023, også kjent som ES14. Denne utgaven har lagt til en rekke forbedringer når man jobber med lister.'
 pubDate: '2023.08.23'
 author: Gaute Meek Olsen
-heroImage: '/js-hero.webp'
+heroImage: '/innhold/js-hero.webp'
 tags: ['Frontend', 'JavaScript']
 ---
 

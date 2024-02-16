@@ -1,37 +1,28 @@
----
-import { SITE_TITLE } from '../consts';
----
-
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<a href="/">
+			<img src="/Capra_hvit_logo_RGB.png" alt="Capra logo">
+		</a>
 	</nav>
 </header>
 <style>
 	header {
 		margin: 0;
 		padding: 0 1em;
-		background: white;
-		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		background: #0c1c35;
+		box-shadow: 0 2px 8px #0c1c351c;
 	}
-	h2 {
-		margin: 0;
-		font-size: 1em;
+	img {
+		width: 100px;
 	}
 	nav {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		min-height: 70px;
+		min-height: 100px;
 	}
-	nav a {
-		padding: 1em 0.5em;
-		color: var(--black);
-		border-bottom: 4px solid transparent;
-		text-decoration: none;
-	}
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
+
+	a {
+		line-height: initial;
 	}
 </style>

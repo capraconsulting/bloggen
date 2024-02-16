@@ -4,7 +4,7 @@ intro: 'I juni 2022 kom det en håndfull nye features i JavaScript.'
 description: 'I juni 2022 kom det en håndfull nye features i JavaScript. Les mer >>'
 pubDate: '2022.06.28'
 author: Gaute Meek Olsen
-heroImage: '/nyheter-i-javascript-es2022.webp'
+heroImage: '/innhold/nyheter-i-javascript-es2022.webp'
 tags: ['Frontend', 'JavaScript']
 ---
 

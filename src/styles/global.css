@@ -1,31 +1,26 @@
-:root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
-	--black: 15, 18, 25;
-	--gray: 96, 115, 159;
-	--gray-light: 229, 233, 240;
-	--gray-dark: 34, 41, 57;
-	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
-	--box-shadow: 0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
-		0 16px 32px rgba(var(--gray), 33%);
-}
 @font-face {
 	font-family: 'Inter';
 	src: url('/fonts/Inter.tff') format('tff');
-	font-weight: 400;
+	font-weight: 400 600;
 	font-style: normal;
 	font-display: swap;
 }
+
+:root {
+	--color-capra-1: #0c1c35;
+	--color-capra-2: #004c61;
+	--color-capra-3: #00ca97;
+	--color-capra-4: #86ffd9;
+	--color-capra-5: #defcf5;
+}
+
 body {
-	font-family: 'Inter', sans-serif;
+	font-family: 'Inter', Arial, sans-serif;
+	font-size: 18px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
-	background: linear-gradient(var(--gray-gradient)) no-repeat;
-	background-size: 100% 600px;
-	word-wrap: break-word;
-	overflow-wrap: break-word;
-	color: rgb(var(--gray-dark));
+	background: var(--color-capra-5);
+	color: black;
 	line-height: 1.7;
 }
 main {
@@ -40,34 +35,36 @@ h3,
 h4,
 h5,
 h6 {
+	font-weight: 600;
+	font-style: normal;
+	line-height: 1.35em;
+	letter-spacing: 0;
 	margin: 0 0 0.5rem 0;
-	color: rgb(var(--black));
-	line-height: 1.2;
 }
 h1 {
-	font-size: 2em;
+	font-size: 2rem;
 }
 h2 {
-	font-size: 1.75em;
+	font-size: 1.8rem;
 }
 h3 {
-	font-size: 1.5em;
+	font-size: 1.6rem;
 }
 h4 {
-	font-size: 1.25em;
+	font-size: 1.2rem;
 }
 h5 {
-	font-size: 1.1em;
+	font-size: 1rem;
 }
 strong,
 b {
 	font-weight: 700;
 }
 a {
-	color: var(--accent);
+	color: var(--color-capra-1);
 }
 a:hover {
-	color: var(--accent);
+	color: var(--color-capra-2);
 }
 p {
 	margin-bottom: 1em;
@@ -82,7 +79,7 @@ img {
 }
 code {
 	padding: 2px 5px;
-	background-color: rgb(var(--gray-light));
+	background-color: var(--color-capra-4);
 	border-radius: 2px;
 }
 pre {
@@ -93,19 +90,19 @@ pre > code {
 	all: unset;
 }
 blockquote {
-	border-left: 4px solid var(--accent);
+	border-left: 4px solid #004c61;
 	padding: 0 0 0 20px;
 	margin: 0px;
 	font-size: 1.333em;
 }
 hr {
 	border: none;
-	border-top: 1px solid rgb(var(--gray-light));
+	border-top: 1px solid var(--color-capra-3);
+}
+figcaption {
+	font-size: 0.9rem;
 }
 @media (max-width: 720px) {
-	body {
-		font-size: 18px;
-	}
 	main {
 		padding: 1em;
 	}

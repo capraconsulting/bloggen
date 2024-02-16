@@ -4,7 +4,7 @@ intro: 'Gjensidige Forsikring ASA har valgt Capra som en av selskapets strategis
 description: 'Gjensidige Forsikring ASA har valgt Capra som en av selskapets strategiske teknologipartnere. Over 5 år skal Capra fortsette å åpne sitt tunge fagmiljø for Gjensidige, og sørge for innovative kundeløsninger i toppklasse.'
 pubDate: '2020.09.08'
 author: Kjetil Thorbjørnsen
-heroImage: '/gjensidige-satser-videre-pa-digitale-kundeopplevelser-med-capra-som-en-av-selskapets-strategiske.webp'
+heroImage: '/innhold/gjensidige-satser-videre-pa-digitale-kundeopplevelser-med-capra-som-en-av-selskapets-strategiske.webp'
 tags: ['Capra folk']
 ---
 

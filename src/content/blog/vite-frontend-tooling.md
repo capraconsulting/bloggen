@@ -3,7 +3,7 @@ title: 'Vite - ny lynrask frontend tooling'
 description: 'Vite er en ny lynrask frontend tooling. Les mer om den'
 pubDate: '2021.09.23'
 author: Gaute Meek Olsen
-heroImage: '/vite-frontend-tooling/hero.webp'
+heroImage: '/innhold/vite-frontend-tooling/hero.webp'
 tags: ['Frontend', 'Vite']
 ---
 
@@ -13,7 +13,7 @@ Prosessen bak å utvikle en nettside har blitt tregere med årene. Det har over 
 
 For å gi noen tall, så har jeg tatt [RealWorld example app](https://codebase.show/projects/realworld) og implementert React-løsningen først med CRA (som benytter webpack) og deretter Vite. Merk at dette kun er tider på min maskin, men det gir en tydelig indikasjon.
 
-![Sammenligningstabell](/vite-frontend-tooling/tabell.webp)
+![Sammenligningstabell](/innhold/vite-frontend-tooling/tabell.webp)
 
 ## Komme i gang
 
@@ -33,15 +33,15 @@ I `package.json` filen din har du kommandoen `npm run dev`, som starter dev-serv
 
 I dag bundler de fleste byggverktøyene hele kodebasen til en fil som kan serves. Dette må gjøres ved hver endring, noe vil caches, men det har effekt kun til et visst punkt.
 
-![Demo av en bundlebasert dev server](/vite-frontend-tooling/bundle-dev-server.webp)
+![Demo av en bundlebasert dev server](/innhold/vite-frontend-tooling/bundle-dev-server.webp)
 
 Vite derimot benytter native ES modules og lar nettleserne gjøre jobben med å hente filene når de brukes. Dev-serveren kan da starte direkte, og den gjør ikke noe jobb før nettleseren åpner siden. Hver fil som benyttes vil da resultere i et nettverkskall, filer som ikke er importert slipper å prosesseres. Du tenker kanskje at et vannfall av nettverkskall skaper treghet, men i realiteten er forsinkelsen ubetydelig når det leses rett fra din lokale disk og flere kall kan gjøres i parallell.
 
-![Demo av en ESM dev server](/vite-frontend-tooling/esm-dev-server.webp)
+![Demo av en ESM dev server](/innhold/vite-frontend-tooling/esm-dev-server.webp)
 
 Vite benytter også [esbuild](https://esbuild.github.io/) en ekstremt rask bundler skrevet i Go. Den vil ta seg av bundling av dependencies, samt kompilere hver fil on-the-fly hvis det trengs. Har du f.eks. en TypeScript-fil som importeres, så vil esbuild kompilere den til JavaScript først når et nettverkskall henter filen.
 
-![Sammenligning av esbuild og konkurrenter](/vite-frontend-tooling/esbuild.webp)
+![Sammenligning av esbuild og konkurrenter](/innhold/vite-frontend-tooling/esbuild.webp)
 
 *Sammenligning av esbuild og andre bundlere på tidsbruket av å bundle biblioteket three.js 10 ganger.*
 

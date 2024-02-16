@@ -4,7 +4,7 @@ intro: 'Denne måneden begynte Heidi Brovold i stillingen som CTO i Capra, noe v
 description: 'Denne måneden begynte Heidi Brovold i stillingen som CTO i Capra, noe vi er så glade for! Som vår daglige leder, Aslak Ege, sier: &quot;Heidis imponerende track-record og brennende engasjement for innovasjon, ledelse og læring var perfekt for oss og vårt mål om å bygge Norges beste kompetansemiljø på våre faglige satsningsområder. I tillegg tilfører hun oss sterk kompetanse på ledelse.”'
 pubDate: '2020.04.22'
 author: Julie Minsaas
-heroImage: '/mot-var-nye-cto.webp'
+heroImage: '/innhold/mot-var-nye-cto.webp'
 tags: ['Capra folk']
 ---
 

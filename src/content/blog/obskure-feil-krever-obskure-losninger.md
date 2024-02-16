@@ -3,7 +3,7 @@ title: 'Obskure feil krever obskure løsninger'
 description: 'Hva gjør du når alle lamper lyser rødt, og du ikke klarer å finne ut av hvorfor? Les hvordan vi jobber med feilsøking  >> '
 pubDate: '2020.06.04'
 author: Håkon Meyer Tørnquist
-heroImage: '/obskure-feil-krever-obskure-losninger.webp'
+heroImage: '/innhold/obskure-feil-krever-obskure-losninger.webp'
 tags: ['Meninger', 'Frontend']
 ---
 

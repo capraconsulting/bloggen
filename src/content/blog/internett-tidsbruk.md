@@ -4,7 +4,7 @@ intro: 'Her er noen nyttige tips og verktøy for å effektivisere daglig tidsfor
 description: 'Vi har flere tips og verktøy for å effektivisere tiden du bruker på sosiale medier og internett. Les mer her!'
 pubDate: '2021.10.11'
 author: Nicolas Harlem Eide
-heroImage: '/internett-tidsbruk.webp'
+heroImage: '/innhold/internett-tidsbruk.webp'
 tags: ['Produktivitet']
 ---
 

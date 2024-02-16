@@ -4,7 +4,7 @@ intro: 'En lettlest og anvendelig bok for utvikleren som ønsker en bredere og p
 description: 'Anmeldelse av boksen Effective Typescript'
 pubDate: '2021.11.05'
 author: Jan Ove Kjærland
-heroImage: '/bokanmeldelse-effective-typescript.webp'
+heroImage: '/innhold/bokanmeldelse-effective-typescript.webp'
 tags: ['JavaScript', 'TypeScript', 'Frontend', 'Bokanmeldelse']
 ---
 

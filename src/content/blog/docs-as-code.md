@@ -4,7 +4,7 @@ intro: 'Som utviklere jobber vi mye med kode, og ofte trenger denne koden dokume
 description: 'Docs-as-code gjør dokumentasjon av koding enklere! Bruk eksisterende verktøy for å skrive teknisk dokumentasjon. Vi går gjennom  docs-as-code her!'
 pubDate: '2021.05.25'
 author: Nicolas Harlem Eide
-heroImage: '/docs-as-code/hero.webp'
+heroImage: '/innhold/docs-as-code/hero.webp'
 tags: ['Backend', 'Frontend']
 ---
 
@@ -26,7 +26,7 @@ I dette tilfellet bruker jeg Python som et eksempel, men det finnes også verkt�
 
 La oss starte med innholdet – *dokumentasjonen*. Selve dokumentasjonen burde være lett tilgjengelig for redigering og være versjonskontrollert. Det vi da ender opp med er plaintext, som markdown eller restructured text, i repositoriet som dokumentasjonen tilhører. Gjerne til og med i selve koden, om språket eller verktøyene støtter dette (eksempelvis gir IntelliJ-platformen god popup dokumentasjon når du har dokumentasjonen i selve funksjonen/klassen/modulen!).
 
-![popup dokumentasjon i editor](/docs-as-code/editor.webp)
+![popup dokumentasjon i editor](/innhold/docs-as-code/editor.webp)
 
 Hvor granulært plasseringen skal være, kommer helt ann på kravene til dokumentasjonen. Er det teknisk eller brukerdokumentasjon? Er det for et API eller for en SDK?
 

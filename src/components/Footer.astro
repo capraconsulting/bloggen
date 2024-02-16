@@ -26,12 +26,24 @@ const today = new Date();
 			>
 		</a>
 	</div>
+	<div class="capra-group">
+		<p>Vi er en del av Capra-gruppen</p>
+		<a href="https://capraconsulting.no" target="_blank">
+			<img src="/Capra_hvit_logo_staande_RGB.png" alt="Capra logo">
+		</a>
+		<a href="https://liflig.no" target="_blank">
+			<img src="/Liflig_hvit_logo_staaende_RGB.png" alt="Liflig logo">
+		</a>
+		<a href="https://fryde.no" target="_blank">
+			<img src="/Fryde_hvit_logo_staaende_RGB.png" alt="Fryde logo">
+		</a>
+	</div>
 </footer>
 <style>
 	footer {
-		padding: 2em 1em 6em 1em;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
+		padding: 2em 1em 4em 1em;
+		background-color: #0c1c35;
+		color:#fff;
 		text-align: center;
 	}
 	.social-links {
@@ -42,9 +54,22 @@ const today = new Date();
 	}
 	.social-links a {
 		text-decoration: none;
-		color: rgb(var(--gray));
+		color: #defcf5;
 	}
 	.social-links a:hover {
-		color: rgb(var(--gray-dark));
+		color: #86ffd9;
+	}
+	.capra-group {
+		display: grid;
+		grid-template-columns: auto auto auto;
+		justify-content: center;
+		gap: 5px;
+	}
+	.capra-group p {
+		grid-column: span 3;
+		margin-bottom: 0;
+	}
+	.capra-group img {
+		max-height: 75px;
 	}
 </style>

@@ -4,7 +4,7 @@ intro: '1.000.000 NOK in salary? Gode betingelser? Lyst på en bedre lunsj? Fant
 description: 'Vi er alltid på jakt etter nye utviklertalenter! Vi legger derfor tid i screening av profiler og i å sende relevante InMails. Les om hva som ligger bak >>'
 pubDate: '2020.04.28'
 author: Morten Gran Kristoffersen og Hannah Synnestvedt Gallagher
-heroImage: '/hva-ligger-egentlig-bak-en-inmail.webp'
+heroImage: '/innhold/hva-ligger-egentlig-bak-en-inmail.webp'
 tags: ['Rekruttering', 'Meninger']
 ---
 

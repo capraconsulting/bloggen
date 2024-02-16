@@ -4,7 +4,7 @@ intro: 'Tre av årets sommerstudenter, Isabelle Galleberg, Joachim Maksim og Mat
 description: 'Tre av årets sommerstudenter, Isabelle Galleberg, Joachim Maksim og Mats Jun Larsen, gir deg et innblikk i deres sommer hos oss.'
 pubDate: '2023.08.29'
 author: ''
-heroImage: '/sommerjobb-i-capra-2023/hero.webp'
+heroImage: '/innhold/sommerjobb-i-capra-2023/hero.webp'
 ---
 
 ## Capraskolen
@@ -15,17 +15,17 @@ Kort tid etter at vi signerte kontraktene for sommerjobben, ble vi samlet i Oslo
 
 Vi følte at vi var en del av selskapet fra første dag. Vi ble lagt til i Capra sin Slack og invitert på interne arrangementer slik som fagsirkler, kurs og sosiale samlinger. Én av sommerstudentene dro til og med på Capra sitt julebord. Vi fikk også god oppfølgning av supportteamet fram mot sommeren. Gjennom HR-samtaler ble vi plassert på team basert på kompetanse og egne ønsker for faglig utvikling. Capraskolen gjorde at vi ble godt kjent med teamet vi skulle jobbe med i sommer, de andre sommerstudentene og flere som jobber i Capra lenge før oppstart. Dette førte til høy psykologisk trygghet i teamene og at vi var produktive allerede fra første arbeidsdag.
 
-![Bilde av alle i sosial sone](/sommerjobb-i-capra-2023/fellesbilde.webp)
+![Bilde av alle i sosial sone](/innhold/sommerjobb-i-capra-2023/fellesbilde.webp)
 
 ## Sommerjobben
 
 Sommerstudentene ble fordelt på tre team. Alle teamene fikk jobbe på Capra sine kontorer gjennom hele sommeren, noe som bidro til et godt sosialt miljø på tvers av teamene, fylt med ispauser, bordtennis og Smash Bros. I løpet av sommeren ble vi tatt med på flere sosiale arrangementer, blant annet Escape Room, utflukt til Langøyene og sommerfest på HQ. I tillegg fikk vi sommerstudentene et eget sosialbudsjett som vi kunne forvalte selv. Dette ble blant annet brukt på gokart, padel-turnering, Fangene på fortet, og et rebusløp i Oslo sentrum.
 
-![Sommerstudentene etter gokart](/sommerjobb-i-capra-2023/gokart.webp)
+![Sommerstudentene etter gokart](/innhold/sommerjobb-i-capra-2023/gokart.webp)
 
-![Sommerstudentene spiller sandvolleyball](/sommerjobb-i-capra-2023/volleyball.webp)
+![Sommerstudentene spiller sandvolleyball](/innhold/sommerjobb-i-capra-2023/volleyball.webp)
 
-![Sommerstudentene etter padel](/sommerjobb-i-capra-2023/padel.webp)
+![Sommerstudentene etter padel](/innhold/sommerjobb-i-capra-2023/padel.webp)
 
 ## Sommerprosjektene
 
@@ -49,9 +49,9 @@ Dette teamet utviklet en type administrasjonsplattform for IDTag, kjent som et T
 
 Plattformen ble utviklet med teknologiene Kotlin, PostgreSQL, AWS med CDK og React med TypeScript. Vi fikk god oppfølging og hjelp fra supportteamet underveis i prosjektet med alt fra arkitekturvalg og feilsøking.
 
-![Sommerstudenter på kontoret](/sommerjobb-i-capra-2023/kontoret1.webp)
+![Sommerstudenter på kontoret](/innhold/sommerjobb-i-capra-2023/kontoret1.webp)
 
-![Sommerstudenter jobber](/sommerjobb-i-capra-2023/kontoret2.webp)
+![Sommerstudenter jobber](/innhold/sommerjobb-i-capra-2023/kontoret2.webp)
 
 Hvordan oppsummere ikke bare en sommer, men også et helt år med Capraskolen? Det er vanskelig, men Monika fra et av årets sommerteam dro fram noe vi tror har vært viktig for suksessen: “Jeg har aldri vært så godt kjent med teamet i en sommerjobb før som jeg var første dag hos Capra”
 

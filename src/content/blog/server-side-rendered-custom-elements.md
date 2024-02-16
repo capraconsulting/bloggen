@@ -3,7 +3,7 @@ title: 'Server Side Rendered Custom Elements'
 description: 'Nå har du muligheten til å utvide vanlige HTML tags med egen logikk og lage avanserte komponenter. Les mer >>'
 pubDate: '2020.11.17'
 author: Anders Olav Candasamy
-heroImage: '/server-side-rendered-custom-elements.webp'
+heroImage: '/innhold/server-side-rendered-custom-elements.webp'
 tags: ['Frontend']
 ---
 

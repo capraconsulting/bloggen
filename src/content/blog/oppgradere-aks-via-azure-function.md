@@ -4,7 +4,7 @@ intro: 'En kort introduksjon til bruk av Azure Functions for automatisk oppgrade
 description: 'En kort introduksjon til bruk av Azure Functions for automatisk oppgradering av Azure Kubernetes Service'
 pubDate: '2022.02.21'
 author: Mina Farrokhnia
-heroImage: '/oppgradere-aks-via-azure-function/hero.webp'
+heroImage: '/innhold/oppgradere-aks-via-azure-function/hero.webp'
 tags: ['Azure', 'Python']
 ---
 
@@ -32,7 +32,7 @@ En grunnleggende Durable Function inneholder:
 
 Jeg har laget følgende Function App i Azure via terraform, som vi skal gå gjennom:
 
-![Terraform kode](/oppgradere-aks-via-azure-function/terraform.webp)
+![Terraform kode](/innhold/oppgradere-aks-via-azure-function/terraform.webp)
 
 For å skrive durable function har jeg valgt Python som programming språk. Som IDE bruker jeg Visual Studio Code. Det har god støtte for Azure Functions gjennom Microsoft sin utvidelse for Azure Functions. Azure-dokumentasjonen har gode eksempler slik at du kan komme i gang raskt med å lage din første funksjon.
 

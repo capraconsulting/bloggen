@@ -4,7 +4,7 @@ intro: 'TailwindCSS, ofte omtalt bare som tailwind, er et utility-first CSS-bibl
 description: 'I 2017 ble TailwindCSS lansert, og med det en ny tilnærming til å strukturere og forholde seg til styling av nettsider. I stedet for klassiske frontend-rammeverk, er tailwind såkalt utility-first'
 pubDate: '2021.06.08'
 author: Øyvind Aukner
-heroImage: '/tailwindcss-det-neste-logiske-steget/hero.svg'
+heroImage: '/innhold/tailwindcss-det-neste-logiske-steget/hero.svg'
 tags: ['Frontend']
 ---
 
@@ -22,9 +22,9 @@ Under følger et eksempel jeg har lånt fra deres egen dokumentasjon. Det først
 
 I første bildet ser vi et eksempel på tradisjonell tankegang, men det andre illustrerer hvordan du kan oppnå det samme ved å ta i bruk tailwind.
 
-![Eksempel uten Tailwind](/tailwindcss-det-neste-logiske-steget/eksempel1.webp)
+![Eksempel uten Tailwind](/innhold/tailwindcss-det-neste-logiske-steget/eksempel1.webp)
 
-![Eksempel med Tailwind](/tailwindcss-det-neste-logiske-steget/eksempel2.webp)
+![Eksempel med Tailwind](/innhold/tailwindcss-det-neste-logiske-steget/eksempel2.webp)
 
 ## Utfordringer
 
@@ -64,4 +64,4 @@ Om du er nysgjerrig og vil teste det ut, anbefaler jeg å ta med deg en styleshe
 
 Lenken finner du nederst i installasjonsguiden til tailwind under “Using Tailwind via CDN”: https://tailwindcss.com/docs/installation. I Codesandbox går du inn på et prosjekt og finner «External resources». Klikk utvid og legg inn lenken fra tailwind (kun adressen, uten HTML-tags etc.) og trykk på «Add resource». Du kan nå ta i bruk tailwind!
 
-![CodeSandbox visning](/tailwindcss-det-neste-logiske-steget/codesandbox.webp)
+![CodeSandbox visning](/innhold/tailwindcss-det-neste-logiske-steget/codesandbox.webp)

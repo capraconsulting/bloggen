@@ -4,7 +4,7 @@ intro: 'Vi har slått av en prat med noen av årets sommerstudenter, som deler s
 description: 'Sommeren hos Capra - et innblikk i arbeidslivet'
 pubDate: '2022.09.08'
 author: Rikke Løngaard
-heroImage: '/sommeren-hos-capra-et-innblikk-i-arbeidslivet.webp'
+heroImage: '/innhold/sommeren-hos-capra-et-innblikk-i-arbeidslivet.webp'
 tags: ['Rekruttering']
 ---
 

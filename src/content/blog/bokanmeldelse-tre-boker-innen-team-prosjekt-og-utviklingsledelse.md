@@ -4,7 +4,7 @@ intro: 'Korte oppsummeringer av tre favoritter boksirkelen i Capra har vært gje
 description: 'Gustav Dyngeseth fra Capra Consulting omtaler tre bøker innen TPU. Les dem her >>'
 pubDate: '2021.12.10'
 author: Gustav Dyngeseth
-heroImage: '/bokanmeldelse-tre-boker-innen-team-prosjekt-og-utviklingsledelse/hero.webp'
+heroImage: '/innhold/bokanmeldelse-tre-boker-innen-team-prosjekt-og-utviklingsledelse/hero.webp'
 tags: ['TPU', 'Bokanmeldelse', 'Prosjektledelse']
 ---
 
@@ -55,7 +55,7 @@ Denne boken er skrevet av Patrick Lencioni og ansees som en ledende veileder ver
 
 5. Å være oppmerksom på resultater er mer krevende enn de fleste tror. Jakten på individuelle mål og personlig status kan fort tære på teamets fokus på kollektiv suksess. I hvor stor grad et team klarer å være oppmerksom nok på resultater kan bla. måles ved å undersøke hvor ofte medlemmer (i) kjapt påpeker andre sine bidrag og prestasjoner, (ii) om teamet har et rykte på seg for å prestere godt, (iii) hvor ofte hvert enkelt team medlem tar ansvar for å bedre prestasjonene til teamet når de mislykkes med å nå kollektive mål, (iv) hvor ofte medlemmer er villig til å gjøre ofre innenfor deres eget område for teamets beste, (v)hvor ofte teamet verdsetter kollektiv suksess fremfor individuelle prestasjoner og (vi) hvor ofte medlemmer plasserer lite viktighet i titler og status.
 
-![Pyramide for team faktorer som gir sukksess](/bokanmeldelse-tre-boker-innen-team-prosjekt-og-utviklingsledelse/team.webp)
+![Pyramide for team faktorer som gir sukksess](/innhold/bokanmeldelse-tre-boker-innen-team-prosjekt-og-utviklingsledelse/team.webp)
 
 > Bilde hentet fra boken [The Five Dysfunctions of a Team](https://www.tablegroup.com/product/dysfunctions/) av Patrick Lencioni.
 
@@ -63,7 +63,7 @@ Denne boken er skrevet av Patrick Lencioni og ansees som en ledende veileder ver
 
 Radical Candor (radikal åpenhet) er en rettferdig, dypt menneskelig måte å administrere menneskene som jobber for deg og støtte dem gjennom personlige og profesjonelle problemer eller utfordringer. Det er to viktige komponenter i Radical Candor: (1) care personally eller på norsk "å bry seg personlig" og (2) Challenge Directly, på norsk "utfordre direkte".
 
-![Radical candor akse](/bokanmeldelse-tre-boker-innen-team-prosjekt-og-utviklingsledelse/radical.webp)
+![Radical candor akse](/innhold/bokanmeldelse-tre-boker-innen-team-prosjekt-og-utviklingsledelse/radical.webp)
 
 > Bilde hentet fra boken [Radical Candor](https://www.radicalcandor.com/) av Kim Scott
 

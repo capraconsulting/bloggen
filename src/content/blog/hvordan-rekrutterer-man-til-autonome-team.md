@@ -4,7 +4,7 @@ intro: 'I august la vi i Capra ned ledergruppen og fjernet alle mellomledere i j
 description: 'Hvordan rekrutterer man egentlige faglige ledestjerner til et selskap der titler betyr nada, men kultur og påvirkningskraft er drivakslene?'
 pubDate: '2020.10.29'
 author: Morten Gran Kristoffersen
-heroImage: '/hvordan-rekrutterer-man-til-autonome-team.webp'
+heroImage: '/innhold/hvordan-rekrutterer-man-til-autonome-team.webp'
 tags: ['Rekruttering']
 ---
 

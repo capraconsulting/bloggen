@@ -4,7 +4,7 @@ intro: 'Oliver Breen (28) tar over hovedansvaret for kundeutvikling, salg, lever
 description: 'Oliver Breen (28) tar over hovedansvaret for kundeutvikling, salg, leveranse og bemanning av konsulenttjenester i Capra.'
 pubDate: '2022.02.08'
 author: Rikke Løngaard
-heroImage: '/ny-salgsansvarlig-i-capra.webp'
+heroImage: '/innhold/ny-salgsansvarlig-i-capra.webp'
 tags: ['Capra folk']
 ---
 

@@ -4,7 +4,7 @@ intro: 'Det er ikke mange som liker å innrømme det, men størrelse skaper ford
 description: 'Den sterke veksten til Amazon Web Services har ført til at de er markedets ledende skyplattform. Lær mer om hvorfor, og ta bevisste valg for bedriften din!'
 pubDate: '2020.04.19'
 author: Hein Kristiansen
-heroImage: '/det-er-en-god-grunn-til-at-aws-er-markedets-ledende-skyplattform.webp'
+heroImage: '/innhold/det-er-en-god-grunn-til-at-aws-er-markedets-ledende-skyplattform.webp'
 tags: ['Sky', 'Meninger']
 ---
 
