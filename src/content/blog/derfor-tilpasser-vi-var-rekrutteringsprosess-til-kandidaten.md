@@ -4,7 +4,7 @@ intro: 'I Capra vokser vi med omtrent 20 personer i året. Er du nysgjerrig på 
 description: 'I Capra vokser vi med omtrent 20 personer i året. Er du nysgjerrig på hvordan vi gjennomfører vår rekrutteringsprosess? Det kan du lese mer om her!'
 pubDate: '2020.03.25'
 author: Morten Gran Kristoffersen
-heroImage: '/innhold/derfor-tilpasser-vi-var-rekrutteringsprosess-til-kandidaten.webp'
+heroImage: '/src/assets/images/derfor-tilpasser-vi-var-rekrutteringsprosess-til-kandidaten.webp'
 tags: ['Rekruttering', 'Capra folk']
 ---
 

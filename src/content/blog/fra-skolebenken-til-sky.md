@@ -4,7 +4,7 @@ intro: 'Alle snakker om skyen, men hvor viktig er det egentlig å kunne det? Hva
 description: 'Bør man prioritere å ta sertifiseringer i AWS eller andre skyteknologier, sånn oppi alt annet man må lære seg i ny jobb? Les hva vi mener >>'
 pubDate: '2020.03.13'
 author: Julie Minsaas
-heroImage: '/innhold/fra-skolebenken-til-sky.webp'
+heroImage: '/src/assets/images/fra-skolebenken-til-sky.webp'
 tags: ['Capra folk', 'Sky']
 ---
 

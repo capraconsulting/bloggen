@@ -4,7 +4,7 @@ intro: 'Vi innrømmer at vi har gjort en feilvurdering! Men det er ingen skam i 
 description: 'Det er ikke bare staten sitt ansvar å vedlikeholde aktiviteten i økonomi under koronakrisen, private bedrifter må fortsette å kjøpe av hverandre >>'
 pubDate: '2020.03.27'
 author: Aslak Ege
-heroImage: '/innhold/det-er-ikke-bare-statens-ansvar-aa-holde-aktivitet-i-okonomien.webp'
+heroImage: '/src/assets/images/det-er-ikke-bare-statens-ansvar-aa-holde-aktivitet-i-okonomien.webp'
 tags: ['Debatt']
 ---
 

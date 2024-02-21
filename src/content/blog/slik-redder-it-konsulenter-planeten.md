@@ -4,7 +4,7 @@ intro: 'Jobber du som utvikler eller konsulent? Da er du faktisk en bidragsyter 
 description: 'Den digitale revolusjonen har gjort det mulig for bedrifter å ta enkle, effektive og miljøvennlige valg på arbeidsplassen. Sånn kan vi redder verden litt &gt;&gt;'
 pubDate: '2020.03.18'
 author: Therese Engen
-heroImage: '/innhold/slik-redder-it-konsulenter-planeten/hero.webp'
+heroImage: '/src/assets/images/slik-redder-it-konsulenter-planeten/hero.webp'
 tags: ['Meninger', 'Teknisk prosjektledelse']
 ---
 
@@ -24,7 +24,7 @@ Det finnes ofte gode løsninger som lar oss minske mengden data en nettside elle
 
 Dersom du har lyst til at brukere av løsningene skal være enda mer miljøvennlige bør du også utvilsomt optimalisere for alle typer skjermer, men særlig smarttelefoner. Det er nemlig slik at det elektriske behovet til en bærbar maskin er betraktelig lavere enn behovet til en stasjonær datamaskin, og nettbrett og smarttelefoner trenger igjen mindre elektrisitet enn laptoper. Hvem hadde trodd at en smarttelefon-optimalisert løsning kan være med på å gjøre deg til en slags miljøhelt (#ydmyk).
 
-![Person med telefon og laptop](/innhold/slik-redder-it-konsulenter-planeten/image.webp)
+![Person med telefon og laptop](/src/assets/images/slik-redder-it-konsulenter-planeten/image.webp)
 
 ## Fremtiden er mer miljøvennlig og mer teknologisk
 

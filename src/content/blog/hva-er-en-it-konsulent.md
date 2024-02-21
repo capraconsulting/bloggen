@@ -4,7 +4,7 @@ intro: 'Behovet for gode IT-systemer gir et økende behov for dyktige mennesker 
 description: 'Behovet for gode IT-systemer gir et økende behov for dyktige mennesker som kan bygge dem. Når man enten trenger ekspertise over kort tid eller ikke finner de rette personene selv, leier selskaper ofte inn konsulenter. Hva gjør en ekstra flink IT-konsulent for sin kunde?'
 pubDate: '2022.04.28'
 author: Melanie B. Jørgensen
-heroImage: '/innhold/hva-er-en-it-konsulent.webp'
+heroImage: '/src/assets/images/hva-er-en-it-konsulent.webp'
 tags: ['Capra folk']
 ---
 

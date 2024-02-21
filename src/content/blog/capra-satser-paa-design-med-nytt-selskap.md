@@ -4,7 +4,7 @@ intro: 'Capra Group består av konsulentselskapet, Capra Consulting, og produktu
 description: 'Capra Group består av konsulentselskapet, Capra Consulting, og produktutviklingsselskapet, Liflig by Capra. De er i dag meget tunge på teknologi. Nå ønsker de å styrke kundene og seg selv ved å benytte design og nyskaping inn i sine prosesser.  Les mer &gt;&gt;'
 pubDate: '2022.10.31'
 author: ''
-heroImage: '/innhold/capra-satser-paa-design-med-nytt-selskap.webp'
+heroImage: '/src/assets/images/capra-satser-paa-design-med-nytt-selskap.webp'
 tags: ['Fryde']
 ---
 

@@ -4,7 +4,7 @@ intro: 'Nøyaktig 7 år etter hans første dag i Capra, tar Ørjan Bøe Thygesen
 description: 'Ørjan Bøe Thygesen trer inn i rollen etter 7 år i Capra Consulting'
 pubDate: '2022.02.02'
 author: Julie Eldøy
-heroImage: '/innhold/tar-over-som-daglig-leder-i-capra-consulting.webp'
+heroImage: '/src/assets/images/tar-over-som-daglig-leder-i-capra-consulting.webp'
 tags: ['Capra folk']
 ---
 

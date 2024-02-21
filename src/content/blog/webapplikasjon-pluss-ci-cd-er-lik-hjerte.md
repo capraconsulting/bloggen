@@ -4,7 +4,7 @@ intro: 'Er du lei av å gå gjennom en haug av manuelle steg for å få en kodee
 description: 'I denne artikkelen gir vi en liten intro til kjerneprinsipper innen DevOps, CI/CD og AWS. Er du nysgjerrig? Les mer her >>'
 pubDate: '2020.03.06'
 author: Erlend Ekern og Stian Steinbakken
-heroImage: '/innhold/webapplikasjon-pluss-ci-cd-er-lik-hjerte/hero.webp'
+heroImage: '/src/assets/images/webapplikasjon-pluss-ci-cd-er-lik-hjerte/hero.webp'
 tags: ['DevOps']
 ---
 
@@ -55,7 +55,7 @@ Nå som vi har fått etablert litt kontekst, la oss ta deg med på en reise til 
 ### Steg 0 – Hva som skal lages, og hva du trenger fra før av
 
 I dette praktiske eksempelet skal vi bygge applikasjonen vist i figuren under:
-![Oversikt](/innhold/webapplikasjon-pluss-ci-cd-er-lik-hjerte/overview.webp)
+![Oversikt](/src/assets/images/webapplikasjon-pluss-ci-cd-er-lik-hjerte/overview.webp)
 
 Det vi ønsker å sitte igjen med til slutt er en «pipeline» bygget opp av de følgende stegene:
 

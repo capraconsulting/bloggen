@@ -4,7 +4,7 @@ intro: 'State management i React er ikke alltid like lett. Denne er artikkelen f
 description: 'State management i React er ikke alltid like lett. Denne er artikkelen for deg som kan en del, men som kanskje ikke har full kontroll på de forskjellige typene state, eller hvordan du best skal håndtere og plassere staten du har. Du får også noen praktiske eksempler som en liten guide til hvordan du burde håndtere state.'
 pubDate: '2022.06.08'
 author: Camilla Marie Dalan
-heroImage: '/innhold/forvirret-av-state-management-i-react/hero.webp'
+heroImage: '/src/assets/images/forvirret-av-state-management-i-react/hero.webp'
 tags: ['Frontend', 'JavaScript']
 ---
 
@@ -81,12 +81,12 @@ export default React.memo(Child);
 ```
 
 <figure>
-  <img src="/innhold/forvirret-av-state-management-i-react/liftedstate1.webp" alt="Component tree">
+  <img src="/src/assets/images/forvirret-av-state-management-i-react/liftedstate1.webp" alt="Component tree" loading="lazy" decoding="async">
   <figcaption>Figur 1: Shallow lifted state</figcaption>
 </figure>
 
 <figure>
-  <img src="/innhold/forvirret-av-state-management-i-react/liftedstate2.webp" alt="Component tree">
+  <img src="/src/assets/images/forvirret-av-state-management-i-react/liftedstate2.webp" alt="Component tree" loading="lazy" decoding="async">
   <figcaption>Figur 2: Deeper lifted state</figcaption>
 </figure>
 
@@ -150,14 +150,14 @@ Her tar jeg for meg litt teknikker man kan ta i bruk for å unngå å dra inn et
 Component Composition en teknikk der man “komponerer” komponenter sammen fra en forelder som ellers hadde vært ganske langt opp i hierarkiet. Dette gjør man for å håndtere state for flere komponenter som ligger litt langt nede trenger samme state, uten å bruke tredjepartsbiblioteker.
 
 <figure>
-  <img src="/innhold/forvirret-av-state-management-i-react/components.webp" alt="Component tree">
+  <img src="/src/assets/images/forvirret-av-state-management-i-react/components.webp" alt="Component tree" loading="lazy" decoding="async">
   <figcaption>Figur 3: Component composition deeper component tree</figcaption>
 </figure>
 
 I dette eksempelet kan vi se at CardComponent har en Header og Content, der Content igjen har Tasks. Vi vet også at disse komponentene hører sammen. I Capra liker vi jo å unngå hierarki, så i stedet for den hierarkiske strukturen over, kan vi endre på den til en flatere struktur som vist i figuren under.
 
 <figure>
-  <img src="/innhold/forvirret-av-state-management-i-react/components2.webp" alt="Component tree">
+  <img src="/src/assets/images/forvirret-av-state-management-i-react/components2.webp" alt="Component tree" loading="lazy" decoding="async">
   <figcaption>
     Figur 4: Component composition shallow component tree
   </figcaption>

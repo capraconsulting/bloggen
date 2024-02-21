@@ -4,7 +4,7 @@ intro: 'De kan brukes til mye mer.'
 description: 'De kan brukes til mye mer.'
 pubDate: '2023.01.12'
 author: 'Mina Farrokhnia'
-heroImage: '/innhold/pipelines-mer-enn-bare-ci-cd/hero.webp'
+heroImage: '/src/assets/images/pipelines-mer-enn-bare-ci-cd/hero.webp'
 tags: ['Sky']
 ---
 
@@ -22,7 +22,7 @@ I denne artikkelen ser vi nærmere på en av disse bruksområdene, Backup, noe s
 I eksempelet her, skal vi kjøre en daglig backup av DNS-soner ved å bruke CloudBuild som er en serverless CI/CD plattform i GCP(Google Cloud Platform) og noen andre ressurser. Vi har flere prosjekter som skiller hvert miljø. Under hvert prosjekt har vi Cloud DNS som inkluderer DNS-soner og DNS-records for hvert miljø. Oppgaven er å ta en daglig backup av alle DNS-soner og lagre dem på en Storage.
 
 <figure>
-  <img alt="Arkitektur diagram" src="/innhold/pipelines-mer-enn-bare-ci-cd/arkitektur.webp">
+  <img alt="Arkitektur diagram" src="/src/assets/images/pipelines-mer-enn-bare-ci-cd/arkitektur.webp" loading="lazy" decoding="async">
   <figcaption>Slik ser arkitekturen</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ intro: 'Hva skjer i Capra? Før vi alle flyttet oss på hvert vårt hjemmekontor
 description: 'Vi ser at fokuset i bransjen skifter fra «valg av tech» til et ønske om å ta helhetlig ansvar for hva som leveres til sluttbrukere. Les mer om tendensene her!'
 pubDate: '2020.04.26'
 author: Sandra Skarshaug
-heroImage: '/innhold/key-takeaways-fra-frontend-workshop.webp'
+heroImage: '/src/assets/images/key-takeaways-fra-frontend-workshop.webp'
 tags: ['Frontend']
 ---
 

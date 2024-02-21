@@ -4,7 +4,7 @@ intro: 'Ser du etter noen som kan hjelpe deg med digitalisering, skyløsninger o
 description: 'Hos Capra har vi over 25 medarbeidere med ulike AWS sertifiseringer og lang erfaring som APN-partner. Les hvorfor du bør velge en AWS-partner her >>'
 pubDate: '2020.04.21'
 author: Hein Kristiansen
-heroImage: '/innhold/derfor-er-det-viktig-a-velge-en-aws-partner.webp'
+heroImage: '/src/assets/images/derfor-er-det-viktig-a-velge-en-aws-partner.webp'
 tags: ['Sky']
 ---
 

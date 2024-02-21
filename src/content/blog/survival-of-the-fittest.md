@@ -4,7 +4,7 @@ intro: 'Det kan ofte virke som maskinlæring og "AI" krever en master i lineær 
 description: 'Det kan ofte virke som maskinlæring og &quot;AI&quot; krever en master i lineær algebra. Her viser jeg deg en liten snarvei.  Les mer her >>'
 pubDate: '2020.08.14'
 author: Stian Steinbakken
-heroImage: '/innhold/survival-of-the-fittest/hero.webp'
+heroImage: '/src/assets/images/survival-of-the-fittest/hero.webp'
 tags: ['Maskinlæring']
 ---
 
@@ -159,7 +159,7 @@ Etter at vi nå har en metode for å velge ut foreldre, må vi også ha en måte
 
 Etter litt Googling fant jeg fram til Order Crossover Operator fra [denne artikklen](https://www.hindawi.com/journals/cin/2017/7430125/). Lat som jeg er, legger jeg bare ved det relevante utdraget:
 
-![Order Crossover Operator utdrag](/innhold/survival-of-the-fittest/crossover-info.webp)
+![Order Crossover Operator utdrag](/src/assets/images/survival-of-the-fittest/crossover-info.webp)
 
 Kort fortalt tar vi et vindu på en tilfeldig plass i begge foreldrene og beholder dette i begge barna. Deretter fyller vi på med verdiene fra den andre forelderen som ikke allerede finnes i barnet, fram til alle tall er plasserte. Denne teknikken lar oss beholde deler av rekkefølgen som var i foreldrene, og sørger samtidig for at ingen byer blir besøkt to ganger (altså at ingen tall gjentar seg).
 
@@ -167,7 +167,7 @@ Artikkelen foreslår en ny metode for å oppnå samme resultat, men jeg valgte �
 
 Jeg har i tillegg forsøkt å illustrere prosessen her, hvor `P1` er den første foreldren, og `P2` den andre:
 
-![Crossover illustrasjon](/innhold/survival-of-the-fittest/crossover-illustration.webp)
+![Crossover illustrasjon](/src/assets/images/survival-of-the-fittest/crossover-illustration.webp)
 
 Her er en rett fram, naiv implementasjon av Order Crossover Operator i Kotlin:
 

@@ -4,7 +4,7 @@ intro: 'Blir med på team CapraWeb i sin reise da de skulle migrere capraconsult
 description: 'Blir med på team CapraWeb i sin reise da de skulle migrere capraconsulting.no fra Gatsby til Remix.'
 pubDate: '2023.10.12'
 author: 'Håkon Meyer Tørnquist og Camilla Marie Dalan'
-heroImage: '/innhold/gastby-til-remix/hero.webp'
+heroImage: '/src/assets/images/gastby-til-remix/hero.webp'
 ---
 
 I den stadig skiftende verdenen av webutvikling er det avgjørende å holde seg oppdatert på de nyeste trendene. Bedrifter trenger nettsider som er like banebrytende som en katt med ti liv – alltid til stede, nysgjerrig og klar til å takle enhver utfordring. Da dukker ofte “migrere til en ny tech stack” opp som svaret på spørsmålet ingen har stilt.
@@ -12,7 +12,7 @@ I den stadig skiftende verdenen av webutvikling er det avgjørende å holde seg 
 I dag begir vi oss ut på et storslagent eventyr mens vi utforsker reisen til et modig selskap, Capra Consulting, som høsten 2022 våget å flytte fra de kjente omgivelsene i Gatsbys varme favn, til de ukjente Remix-farvann. Et solid team av utviklere, Team CapraWeb, gikk sammen for å takle denne monumentale oppgaven. Så fest setebeltene, webentusiaster, for en historie fylt med brå vendinger, krappe svinger og tvilsomme designvalg!
 
 <figure>
-  <img alt="Geit som kjører en gammel bil" src="/innhold/gastby-til-remix/geit.webp">
+  <img alt="Geit som kjører en gammel bil" src="/src/assets/images/gastby-til-remix/geit.webp" loading="lazy" decoding="async">
   <figcaption>Vil du bli med på en tur?</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Tre måneder med Remix, Cloudflare, gode venner og litt for store mengder energi
 Etter en god del jobb, en god del feiling og masse læring, var nettsiden endelig klar for produksjon i november 2022. Den åpne kildekoden lever [her](https://github.com/capraconsulting/nettsiden), og siden kan du se på [capraconsulting.no](https://capraconsulting.no/?_ga=2.79165012.1970766327.1707512947-1479161094.1707512947).
 
 <figure>
-  <img alt="Screenshot of Notion task of &quot;Going live&quot;" src="/innhold/gastby-til-remix/live.webp">
+  <img alt="Screenshot of Notion task of &quot;Going live&quot;" src="/src/assets/images/gastby-til-remix/live.webp" loading="lazy" decoding="async">
   <figcaption>Going live!</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Etter en god del jobb, en god del feiling og masse læring, var nettsiden endeli
 Vi har lært at Remix er kult, TailwindCSS er gøy, Cloudflare er billig og trunk-based development er fanden så effektivt. Ellers er det alltid bra å ha et godt team å sparre med, og en arbeidsgiver som lar sine ansatte eksperimentere og følge en generell “kloke valg”-tankegang.
 
 <figure>
-  <img alt="Teamet skåler for ferdig utført jobb." src="/innhold/gastby-til-remix/team.webp">
+  <img alt="Teamet skåler for ferdig utført jobb." src="/src/assets/images/gastby-til-remix/team.webp" loading="lazy" decoding="async">
   <figcaption>
     Fra venstre: Håkon Tørnquist, Ingrid Domben, Julian Jark, Malin Aandahl og (bak kameraet) Camilla Marie Dalan.
   </figcaption>

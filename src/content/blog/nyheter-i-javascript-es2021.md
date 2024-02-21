@@ -4,7 +4,7 @@ intro: 'I juni 2021 kom det en håndfull med nye features i JavaScript språket.
 description: 'I juni 2021 kom det en håndfull med nye features i JavaScript språket. Les mer om dem her >>'
 pubDate: '2021.08.05'
 author: Gaute Meek Olsen
-heroImage: '/innhold/js-hero.webp'
+heroImage: '/src/assets/images/js-hero.webp'
 tags: ['Frontend', 'JavaScript']
 ---
 
@@ -12,7 +12,7 @@ tags: ['Frontend', 'JavaScript']
 
 Hvis du ikke ønsker å lese hele artikkelen, så har jeg samlet de viktigste endringene i dette bildet.
 
-![Oppsummering av kode](/innhold/nyheter-i-javascript-es2021.webp)
+![Oppsummering av kode](/src/assets/images/nyheter-i-javascript-es2021.webp)
 
 ## Bakgrunn
 

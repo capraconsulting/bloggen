@@ -4,7 +4,7 @@ intro: 'Vi har utviklet en tjeneste for team coaching: Team Assessment Service (
 description: 'Gustav Dyngeseth fra Capra Consulting omtaler tre bøker innen TPU. Les dem her >>'
 pubDate: '2021.12.17'
 author: Gustav Dyngeseth
-heroImage: '/innhold/team-assessment-service.webp'
+heroImage: '/src/assets/images/team-assessment-service.webp'
 tags: ['Prosjektledelse', 'TPU']
 ---
 
