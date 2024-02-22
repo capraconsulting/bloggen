@@ -43,13 +43,13 @@ Deretter utviklet vi workshop-innhold for å hjelpe nye team i startfasen: Alle 
 
 På om lag fire måneder, har vi etablert tolv team, som jobber innen rekruttering, markedsføring, fagmiljø, salg og leveranse. For to måneder siden ble ledergruppen avviklet, og deres opprinnelige oppgaver er i dag spredt utover flere andre team. Blant disse finner vi Team Økonomi, som har ansvar for økonomi, budsjett og prognoser; Team Operasjonelt, som kontrollerer den daglige driften av selskapet og sikrer at konsulentene våre trives; Team Strategi og Porteføljestyring, som jobber med andre team for å peke ut og forankre selskapets retning. De ser på hvordan vi på et overordnet plan skal reagere på endringer og tilpasse oss markedet. Da ved først og fremst å justere de ressursene teamene har fått tildelt.
 
-![Strategi oversikt](/src/assets/images/slik-reorganiserer-vi-capra/strategi.webp)
+![Strategi oversikt](../../assets/images/slik-reorganiserer-vi-capra/strategi.webp)
 
 Figuren viser hvilke team som er knyttet til de tre viktigste, overordnede verdistrømmene til Capra: Ansette flinke kolleger, bygge kompetanse og selskap, og selge og levere tjenester til våre kunder. Under hver av dem finner du verdistrømteam – det vil si team som primært jobber for å støtte den overordnede verdistrømmen og skape verdi for selskapet. Disse teamene kan dynamisk endre på sine leveranser for å matche feedback og variasjoner i markedet.
 
 Under finner vi det vi kan kalle Capras plattform, i form av det «Team Topologies» kaller *Plattform Team*. De kan ikke respondere på noe direkte i verdistrømmene, men vil reagere på det verdistrømteamene informerer om. Nederst finner vi Team Nyorg (kort for Ny Organisering), som er oss som de siste månedene har jobbet med nytt organisasjonsdesign.
 
-![Team inndeling](/src/assets/images/slik-reorganiserer-vi-capra/team.webp)
+![Team inndeling](../../assets/images/slik-reorganiserer-vi-capra/team.webp)
 
 **Neste steg**
 

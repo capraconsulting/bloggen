@@ -132,7 +132,7 @@ export default App;
 
 Hvis du kjører `npm run dev` vil det se omtrent slik ut i nettleseren din etter du har klikket “Finn middag”:
 
-![Nettsiden med devtools](/src/assets/images/chatgpt-react-middag/nettside.webp)
+![Nettsiden med devtools](../../assets/images/chatgpt-react-middag/nettside.webp)
 
 Får du noen API-problemer har [OpenAI en fin oversikt](https://platform.openai.com/docs/guides/error-codes) over hva du kan gjøre.
 
@@ -177,12 +177,12 @@ const App = () => {
 export default App;
 ```
 
-![Nettsiden](/src/assets/images/chatgpt-react-middag/nettsiden2.webp)
+![Nettsiden](../../assets/images/chatgpt-react-middag/nettsiden2.webp)
 
 Og *voilà*! OpenAI er dermed i appen din. Nå er det bare å leke seg med forskjellige tekststrenger og se hvor mye gøy man får ut av det. OBS: For hver gang du sender en request til OpenAI så bruker du av gratis-kvoten din som er på 5 dollar. Se hvor mye du har brukt under []"Usage" på OpenAI sine sider](https://platform.openai.com/account/usage).
 
 Her har jeg endret `PROMPT_RECIPE` til “Give me a recipe title and list of ingredients that don't fit together”; og sender inn `` `Cartoon image of ${data}` `` som prompt til `generateImage`:
 
-![Nettsiden](/src/assets/images/chatgpt-react-middag/nettsiden3.webp)
+![Nettsiden](../../assets/images/chatgpt-react-middag/nettsiden3.webp)
 
 Github-repoet kan du finne [her](https://github.com/krissaberg/dinnergpt).

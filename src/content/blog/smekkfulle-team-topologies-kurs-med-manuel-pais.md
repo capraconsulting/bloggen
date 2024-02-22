@@ -25,7 +25,8 @@ På kurset deltok Øistein Haugland fra Itera, som sier følgende om kurset:
 >Team Topologies tar jeg med videre for å lære bort, og anvende. Anbefales sterkt.
 
 <figure>
-  <img alt="Øistein Haugland og Manuel Pais på Team Topologies kurs hos Capra" src="/src/assets/images/smekkfulle-team-topologies-kurs-med-manuel-pais/paishaugland.webp" loading="lazy" decoding="async">
+
+  ![Øistein Haugland og Manuel Pais på Team Topologies kurs hos Capra](../../assets/images/smekkfulle-team-topologies-kurs-med-manuel-pais/paishaugland.webp)
   <figcaption>Øistein Haugland og Manuel Pais på Team Topologies-kurs hos Capra</figcaption>
 </figure>
 
@@ -40,7 +41,8 @@ I Capra har vi de siste årene fokusert mye på Team Topologies. I fjor arranger
 Hos våre kunder NRK og Vy har vi allerede tatt i bruk flere av konseptene fra Team Topologies, som interaksjonsmoduser, kognitiv last, inverse Conway og hvordan vi brukte domene-drevet design for å strukturere Vy sine domener. Dette har ført til tydeligere grensesnitt og domener mellom team, mer fokus og mindre kognitiv last mer team. Vi har snakket om erfaringene våre hos ICE og Tolletaten, og vi deler gjerne erfaringene med deg også. Vi kan også hjelpe deg å forstå hvordan din bedrift kan ta nytte av konseptene fra Team Topologies. Ta kontakt med vår foredragsholder og teknologileder [Stein-Otto Svorstøl](mailto:esso@capraconsulting.no) for en uforpliktende prat.
 
 <figure>
-  <img alt="Deltaker på kurs" src="/src/assets/images/smekkfulle-team-topologies-kurs-med-manuel-pais/kurs.webp" loading="lazy" decoding="async">
+
+  ![Deltaker på kurs](../../assets/images/smekkfulle-team-topologies-kurs-med-manuel-pais/kurs.webp)
   <figcaption>Ivar Iversen fra Fremtind på Team Topologies-kurs.</figcaption>
 </figure>
 
@@ -65,6 +67,7 @@ Så, hva har vi fått til? Vi ser en klar tendens til at flere tar ansvar og fø
 Meld deg på [nyhetsbrevet vårt](https://capraconsulting.us7.list-manage.com/subscribe?u=40ddc61e41192391f335bce25&id=f8b49ae27c) om du ønsker å få informasjon om kurs i fremtiden og lignende typer arrangementer.
 
 <figure>
-  <img alt="Manuel presenterer" src="/src/assets/images/smekkfulle-team-topologies-kurs-med-manuel-pais/pais.webp" loading="lazy" decoding="async">
+
+  ![Manuel presenterer](../../assets/images/smekkfulle-team-topologies-kurs-med-manuel-pais/pais.webp)
   <figcaption>Manuel Pais presenterer Team Topologies konsepter</figcaption>
 </figure>

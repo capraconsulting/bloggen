@@ -22,9 +22,9 @@ Under følger et eksempel jeg har lånt fra deres egen dokumentasjon. Det først
 
 I første bildet ser vi et eksempel på tradisjonell tankegang, men det andre illustrerer hvordan du kan oppnå det samme ved å ta i bruk tailwind.
 
-![Eksempel uten Tailwind](/src/assets/images/tailwindcss-det-neste-logiske-steget/eksempel1.webp)
+![Eksempel uten Tailwind](../../assets/images/tailwindcss-det-neste-logiske-steget/eksempel1.webp)
 
-![Eksempel med Tailwind](/src/assets/images/tailwindcss-det-neste-logiske-steget/eksempel2.webp)
+![Eksempel med Tailwind](../../assets/images/tailwindcss-det-neste-logiske-steget/eksempel2.webp)
 
 ## Utfordringer
 
@@ -64,4 +64,4 @@ Om du er nysgjerrig og vil teste det ut, anbefaler jeg å ta med deg en styleshe
 
 Lenken finner du nederst i installasjonsguiden til tailwind under “Using Tailwind via CDN”: https://tailwindcss.com/docs/installation. I Codesandbox går du inn på et prosjekt og finner «External resources». Klikk utvid og legg inn lenken fra tailwind (kun adressen, uten HTML-tags etc.) og trykk på «Add resource». Du kan nå ta i bruk tailwind!
 
-![CodeSandbox visning](/src/assets/images/tailwindcss-det-neste-logiske-steget/codesandbox.webp)
+![CodeSandbox visning](../../assets/images/tailwindcss-det-neste-logiske-steget/codesandbox.webp)

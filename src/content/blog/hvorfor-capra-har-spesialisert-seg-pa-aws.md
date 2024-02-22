@@ -19,7 +19,7 @@ Capra Consulting er et av de største kompetansemiljøene på Amazon Web Service
 
 I dag samarbeider Capra tett med AWS, slik at både skyen og ny teknologi alltid er lett tilgjengelig for alle våre kunder. I vår egenutviklede tjeneste for skreddersøm, [Liflig](https://www.liflig.no/), benytter vi selvsagt AWS. Dette sikrer at vi kan møte selv de mest kompliserte behov.
 
-![AWS logo](/src/assets/images/hvorfor-capra-har-spesialisert-seg-pa-aws/aws.webp)
+![AWS logo](../../assets/images/hvorfor-capra-har-spesialisert-seg-pa-aws/aws.webp)
 
 ## En plattform vi og våre kunder kan stole på
 
@@ -29,7 +29,7 @@ AWS har vist seg å være utrolig pålitelig når det kommer til motstandsdyktig
 
 Her i Capra har vi også falt for hvor skalerbar, fleksibel og tilpasningsdyktig plattformen faktisk er. Utviklerne av AWS skapte tidlig grobunn for en infrastruktur som enkelt kunne skaleres opp og ned raskt, for å møte de alltid flytende behovene til ulike bedrifter. I dag er AWS kjent for sin fleksibilitet, og bedrifter som tar i bruk skyplattformen slipper å forholde seg til begrensninger de er vant til å leve med i en fysisk infrastruktur. Her kan du være trygg på at tilgang til servere og lagring alltid er tilgjengelig.
 
-![Teknologi illustrasjon](/src/assets/images/hvorfor-capra-har-spesialisert-seg-pa-aws/tech.webp)
+![Teknologi illustrasjon](../../assets/images/hvorfor-capra-har-spesialisert-seg-pa-aws/tech.webp)
 
 ## Garantert høy sikkerhet og tilpasningsdyktighet
 

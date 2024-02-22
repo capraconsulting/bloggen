@@ -57,6 +57,7 @@ For å møte disse utfordringene, utviklet vi nye systemer og rutiner for håndt
 Se hele historien på Fryde https://www.fryde.no/statped
 
 <figure>
-  <img alt="Blader" src="/src/assets/images/a-lede-virksomheter-gjennom-endringer/plant.webp" loading="lazy" decoding="async">
+
+  ![Blader](../../assets/images/a-lede-virksomheter-gjennom-endringer/plant.webp)
   <figcaption>Foto: Min An</figcaption>
 </figure>

@@ -22,7 +22,7 @@ Da er det heldigvis fint at du kan ta i bruk et verktøy som kan hjelpe deg i ri
 **Accessibility**: Leter etter vanlige feil innen universell utforming.   
 **Progressive Web App (PWA)**: Sjekker for å lage en [Progressive Web App](https://web.dev/pwa-checklist/).
 
-![Eksempel på en Lighthouse rapport](/src/assets/images/kvalitetssikre-nettsiden-med-lighthouse/rapport.webp)
+![Eksempel på en Lighthouse rapport](../../assets/images/kvalitetssikre-nettsiden-med-lighthouse/rapport.webp)
 
 Over ser du et eksempel på hvordan resultatet kan se ut. Etter en kjøring får du en score fra 0 til 100 innen hver kategori. Kategoriene består av et antall sjekker hver, som for eksempel "Time to interactive" og "Background and foreground colors have sufficient contrast ratio". Hver sjekk har en forklaring på hvorfor nettopp den er viktig og hvordan du kan rette opp i den.
 
@@ -36,7 +36,7 @@ Kanskje du eier en nettside, er prosjektleder eller har en annen grunn til å sj
 
 Du kan også kjøre Lighthouse i Chrome DevTools: Sørg for å ha installert Chrome, åpne en nettside, trykk F12 og naviger deg til Lighthouse-fanen. Her kan du velge hvilke kategorier som skal sjekkes og hvilken enhet kjøringen skal simuleres på. Deretter kan du trykke på “Generate report”-knappen for å få en fullstendig rapport. Dette er et enkelt tiltak for å sørge for god kvalitet på nettsiden mens du utvikler på lokal maskin.
 
-![Lighthouse i Chrome DevTools](/src/assets/images/kvalitetssikre-nettsiden-med-lighthouse/devtools.webp)
+![Lighthouse i Chrome DevTools](../../assets/images/kvalitetssikre-nettsiden-med-lighthouse/devtools.webp)
 
 ## For maskinen
 
@@ -102,7 +102,7 @@ Hvis du ønsker å laste opp rapporten til en server kan dette gjøres i `upload
 
 Til slutt, hvis du ikke ønsker å klikke deg inn på kjøringen til workflow consolen i pull requesten for å sjekke detaljer, så kan du installere Lighthouse CI GitHub app som setter statuser synlig i pull requesten. Her er et eksempel på hvordan det ser ut for hver URL som er skannet:
 
-![Pull request status](/src/assets/images/kvalitetssikre-nettsiden-med-lighthouse/scan.webp)
+![Pull request status](../../assets/images/kvalitetssikre-nettsiden-med-lighthouse/scan.webp)
 
 Installer GitHub-appen [Lighthouse CI](https://github.com/apps/lighthouse-ci) og gi tilgang til de repositoriene du ønsker. Kopier og ta vare på tokenet du får og lagre dette under Settings > Secrets med navn `LHCI_GITHUB_APP_TOKEN` for ønsket repository. Så må du oppdatere `lighthouse.yml` med:
 

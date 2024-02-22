@@ -31,7 +31,8 @@ Problemet her er at typen til `response.json()` er `any` og jeg *"caster den bar
 Den mest rett frem måten å løse dette på er ved å manuelt inspisere objektet som blir returnert og forsikre at den er slik vi forventer. Dette kan gjøres "manuelt" (`typeof person.name === "string"` osv), men det er her [JSON Schema](https://json-schema.org/) og [TypeBox](https://github.com/sinclairzx81/typebox) kommer inn i bildet.
 
 <figure>
-  <img src="/src/assets/images/effektiv-json-validering-med-typebox/cartoon.webp" alt="Cartoon" loading="lazy" decoding="async">
+
+  ![Cartoon](../../assets/images/effektiv-json-validering-med-typebox/cartoon.webp)
   <figcaption>JSON Schema form er kanskje ikke for alle</figcaption>
 </figure>
 
