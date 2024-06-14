@@ -5,6 +5,7 @@ description: 'Et av Nordens ledende skadeforsikringsselskap, Gjensidige, satser 
 pubDate: '2023.07.06'
 author: ''
 heroImage: '/src/assets/images/gjensidige-fornyer-partnerskapet-med-capra.webp'
+hidden: true
 ---
 
 *“Capra er en partner til å stole på, både når det gjelder kvalitet og menneskene som jobber der. Dette har de vist med solide leveranser og folk over tid. Capra har svært dyktige fagfolk som passer godt inn i Gjensidige, og vi er veldig glad for at partnerskapet fortsetter og vi gleder oss til å bygge dette videre sammen.”*

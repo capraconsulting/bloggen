@@ -6,6 +6,7 @@ pubDate: '2020.04.22'
 author: Julie Minsaas
 heroImage: '/src/assets/images/mot-var-nye-cto.webp'
 tags: ['Capra folk']
+hidden: true
 ---
 
 Så hvem er Heidi? Her kan du bli litt bedre kjent med henne!

@@ -5,6 +5,7 @@ pubDate: '2023.09.13'
 author: 'Anita Jenbergsen'
 heroImage: '/src/assets/images/a-lede-virksomheter-gjennom-endringer/hero.webp'
 tags: ['Debatt', 'Fryde']
+hidden: true
 ---
 
 **For litt siden snakket jeg med en tidligere kollega av meg som sa noe som gjorde meg utrolig glad:**

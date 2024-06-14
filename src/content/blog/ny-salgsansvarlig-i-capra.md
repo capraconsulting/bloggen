@@ -6,6 +6,7 @@ pubDate: '2022.02.08'
 author: Rikke Løngaard
 heroImage: '/src/assets/images/ny-salgsansvarlig-i-capra.webp'
 tags: ['Capra folk']
+hidden: true
 ---
 
 Oliver startet i Capra i 2018 og har siden jobbet som forretningsutvikler, Key Account Manager og er ansattvalgt styremedlem i Capra. Han har en utdanning fra Handelshøyskolen BI med en fordypning i forretningsutvikling og teknologi, og har tidligere erfaring fra rekruttering og forretningssystemer. Nå overtar han hovedansvaret for kundeutvikling, salg, leveranse og bemanning for konsulenttjenester i Capra.

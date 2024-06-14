@@ -5,6 +5,7 @@ description: 'I denne artikkelen deler vi noen nyttige tips for å lage en CV so
 pubDate: '2023.08.31'
 author: 'Wictor Zhao og Victor Jørgensen'
 heroImage: '/src/assets/images/tips-for-a-skrive-cv-til-sommerjobb/hero.webp'
+hidden: true
 ---
 
 ## 1. Plasser det mest relevante øverst på CV-en

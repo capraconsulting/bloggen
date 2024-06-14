@@ -6,6 +6,7 @@ pubDate: '2020.10.29'
 author: Morten Gran Kristoffersen
 heroImage: '/src/assets/images/hvordan-rekrutterer-man-til-autonome-team.webp'
 tags: ['Rekruttering']
+hidden: true
 ---
 
 For mange kandidater er titler eller roller viktig. De kommer kanskje fra større selskaper der dette henger sammen med lønn og betingelser? Kanskje det er viktig for dem da noen mener det er bevis på suksess i karrieren? I Digi.no den 12.10 fortalte Aslak Ege om hvordan vi i [Capra har reorganisert](https://www.digi.no/artikler/intervju-it-konsulentselskapet-fjernet-alle-mellomledere-og-innforte-flat-struktur/500444?key=fI697eC1) til autonome team. Vil valget vi har tatt gjøre rekrutteringen vanskeligere eller lettere?

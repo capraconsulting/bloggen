@@ -5,6 +5,7 @@ description: 'Nordens største landbaserte transportkonsern fornyer partnerskape
 pubDate: '2023.08.17'
 author: ''
 heroImage: '/src/assets/images/capra-vinner-ny-rammeavtale-hos-vy/hero.webp'
+hidden: true
 ---
 
 Utviklingssjef Mads Boye uttaler at *“jeg har samarbeidet med Capra i lang tid, og de leverer høy kvalitet innen fag- og teknologiområdene som er viktige for oss. I tillegg til dyktige folk som bidrar med å nå våre ambisiøse mål er de flinke på å åpne opp fagmiljøet sitt for oss, både innen teknologi, metodikk eller teknologiledelse. Vi ser på Capra som en viktig strategisk partner og gleder oss til videre samarbeid de neste årene”*

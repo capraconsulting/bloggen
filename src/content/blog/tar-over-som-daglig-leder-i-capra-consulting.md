@@ -6,6 +6,7 @@ pubDate: '2022.02.02'
 author: Julie Eldøy
 heroImage: '/src/assets/images/tar-over-som-daglig-leder-i-capra-consulting.webp'
 tags: ['Capra folk']
+hidden: true
 ---
 
 Aslak fortsetter som konsernsjef for Capra Group og forteller at han gleder seg til å se hva Ørjan vil gjøre som daglig leder.

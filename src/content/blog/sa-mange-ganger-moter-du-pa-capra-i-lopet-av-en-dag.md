@@ -6,6 +6,7 @@ pubDate: '2020.08.21'
 author: Oliver Hove-Breen
 heroImage: '/src/assets/images/sa-mange-ganger-moter-du-pa-capra-i-lopet-av-en-dag/hero.webp'
 tags: ['Capra folk']
+hidden: true
 ---
 
 Når en bedrift henter inn konsulenter fra Capra, vil vi rådføre beslutningstakere, utvikle og lede tekniske prosjekter. Vårt mål er å best mulig dra nytte av teknologi for å maksimere verdiskapingen og videre vekst. Vi leder tekniske prosjekter, utvikler og bygger systemer for å maksimere verdiskapning og videre vekst for din bedrift. Vi sørger ikke bare for at implementering og videre bruk av systemene går som smurt, men gir deg konsulenter som tør å rådgi og utfordre dine valg på veien.

@@ -6,6 +6,7 @@ pubDate: '2020.03.13'
 author: Rolf Rønning
 heroImage: '/src/assets/images/liflig-kan-lose-et-stort-softwareproblem-i-it-bransjen/hero.webp'
 tags: ['Liflig']
+hidden: true
 ---
 
 I en tid hvor tekniske løsninger er i fritt fall og kompetansebristen er reell, mener vi (helt objektivt, naturligvis) at vi har utviklet et løsning som takler mange av utfordringene bransjen står overfor. En slags nepotisme kanskje, men heller ikke uberettiget av den grunn. Liflig er nemlig en tjeneste som gir deg den skreddersydde softwareløsningen du alltid har ønsket deg. I tillegg er den også alltid oppdatert og relevant. Det eneste du som kunde trenger å gjøre er å bestemme deg for hva du vil ha, så tar vi i Capra oss av resten.

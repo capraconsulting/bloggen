@@ -6,6 +6,7 @@ pubDate: '2020.04.28'
 author: Morten Gran Kristoffersen og Hannah Synnestvedt Gallagher
 heroImage: '/src/assets/images/hva-ligger-egentlig-bak-en-inmail.webp'
 tags: ['Rekruttering', 'Meninger']
+hidden: true
 ---
 
 For mange av dere utviklere ser nok dette kjent ut. Som en meget ettertraktet arbeidskraft, i et raskt voksende marked, er det flere rekrutterere som ønsker å fange oppmerksomheten deres blant annet med inmails på LinkedIn. Vi forstår at det blir mye useriøst og støy.

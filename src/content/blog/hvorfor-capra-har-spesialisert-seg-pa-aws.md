@@ -6,6 +6,7 @@ pubDate: '2020.05.12'
 author: Hein Kristiansen
 heroImage: '/src/assets/images/hvorfor-capra-har-spesialisert-seg-pa-aws/hero.webp'
 tags: ['Meninger', 'Sky']
+hidden: true
 ---
 
 Amazon Web Services, bedre kjent som AWS, har vokst seg fra å introdusere fillagring som en tjeneste i 2006, til å bli verdens desidert største skyplattform. Selv om stadig flere konkurrenter kommer på banen klarer de ikke å dytte AWS ned fra den øverste plassen på pallen.

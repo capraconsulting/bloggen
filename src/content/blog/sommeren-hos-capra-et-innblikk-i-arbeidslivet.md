@@ -6,6 +6,7 @@ pubDate: '2022.09.08'
 author: Rikke Løngaard
 heroImage: '/src/assets/images/sommeren-hos-capra-et-innblikk-i-arbeidslivet.webp'
 tags: ['Rekruttering']
+hidden: true
 ---
 
 Hver sommer tar Capra imot dyktige teknologistudenter til en 7 ukers sommerjobb. Målet er å forberede studentene på en potensiell jobb som IT-konsulent. I juni i år igjen tok Capra inn 17 teknologistudenter, som har  jobbet på tre ulike reelle kundeprosjekter. Vi har slått av en prat med noen av årets sommerstudenter, som deler sine innblikk og tanker fra deres hverdag i Capra.

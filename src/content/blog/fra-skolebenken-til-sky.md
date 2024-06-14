@@ -6,6 +6,7 @@ pubDate: '2020.03.13'
 author: Julie Minsaas
 heroImage: '/src/assets/images/fra-skolebenken-til-sky.webp'
 tags: ['Capra folk', 'Sky']
+hidden: true
 ---
 
 AWS-sertifiseringer åpner nye dører

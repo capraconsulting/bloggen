@@ -6,6 +6,7 @@ pubDate: '2020.09.08'
 author: Kjetil Thorbjørnsen
 heroImage: '/src/assets/images/gjensidige-satser-videre-pa-digitale-kundeopplevelser-med-capra-som-en-av-selskapets-strategiske.webp'
 tags: ['Capra folk']
+hidden: true
 ---
 
 [Capra](https://www.capraconsulting.no/?_ga=2.88397531.1970766327.1707512947-1479161094.1707512947) ble valgt som en av to strategiske partnere etter en grundig evaluering, basert på selskapets ekspertise og innsikt innen moderne systemutvikling, teknologitrender og cloud. Samarbeidet tilrettelegger for at Gjensidige skal kunne posisjonere seg og tilby kundene de beste og mest innovative løsningene i bransjen.

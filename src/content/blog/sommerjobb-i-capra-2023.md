@@ -5,6 +5,7 @@ description: 'Tre av årets sommerstudenter, Isabelle Galleberg, Joachim Maksim 
 pubDate: '2023.08.29'
 author: ''
 heroImage: '/src/assets/images/sommerjobb-i-capra-2023/hero.webp'
+hidden: true
 ---
 
 ## Capraskolen

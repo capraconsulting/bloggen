@@ -6,6 +6,7 @@ pubDate: '2020.04.21'
 author: Hein Kristiansen
 heroImage: '/src/assets/images/derfor-er-det-viktig-a-velge-en-aws-partner.webp'
 tags: ['Sky']
+hidden: true
 ---
 
 ## Hva er en AWS partner?
