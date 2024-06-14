@@ -8,13 +8,13 @@ import { Image } from 'astro:assets';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, intro, description, pubDate, author, heroImage } = Astro.props;
+const { title, intro, description, pubDate, author, heroImage, canonical } = Astro.props;
 const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/images/**/*.webp');
 ---
 
 <html lang="no">
 	<head>
-		<BaseHead title={title} description={description} image={heroImage}/>
+		<BaseHead title={title} description={description} image={heroImage} canonical={canonical}/>
 		<style>
 			article {
 				padding: 1em;

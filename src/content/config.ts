@@ -10,6 +10,7 @@ const blog = defineCollection({
 		author: z.string(),
 		heroImage: z.string(),
 		tags: z.string().array().optional(),
+		canonical: z.string().optional(),
 	}),
 });
 
