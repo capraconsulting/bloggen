@@ -1,56 +1,43 @@
-# Astro Starter Kit: Blog
+# Fagartikler
 
-Features:
+## Tech
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- [Astro](https://docs.astro.build)
+- TypeScript
+- [pnpm](https://pnpm.io/)
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
+## Commands
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `pnpm install`         | Installs dependencies                            |
+| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
+| `pnpm build`           | Build your production site to `./dist/`          |
+| `pnpm preview`         | Preview your build locally, before deploying     |
+| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `pnpm astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+If you forget to write the `p` before `npm`, I would recommend [ni](https://github.com/antfu-collective/ni), to make it easier to jump between projects.
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## How to add an article
 
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+1. Add your file to `src/content/blog/[your_article_name].[md/mdx]`
+2. Add article config to frontmatter:
+```
+---
+title: 'Your title'
+intro: 'Optional intro placed before the hero image'
+description: 'Description placed in <head> for SEO'
+pubDate: 'yyyy.MM.dd'
+author: 'Your name'
+heroImage: '/src/assets/images/your-article-name/hero.webp'
+tags: ['Frontend', 'Backend']
+canonical: 'https://optional-url-if-article-is-published-externally-first.com'
+---
+```
+3. Add images to `src/assets/images/`.  
+  a. Let's try to keep it tidy, if you only have a hero image you can name the image file the same as the article file. If you have multiple images, please create a folder with the name of the article file.
+4. Write your article in [markdown](https://www.markdownguide.org/cheat-sheet/). Tip. you can [convert a google docs to markdown](https://www.markdownguide.org/tools/google-docs-to-markdown/).
+5. Create a PR/merge to main.

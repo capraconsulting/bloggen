@@ -10,7 +10,7 @@ import FormattedDate from "../components/FormattedDate.astro";
 const posts = (await getCollection("blog")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
-const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/images/**/*.webp');
+const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/images/**/*');
 ---
 
 <!doctype html>

@@ -9,7 +9,7 @@ import { Image } from 'astro:assets';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, intro, description, pubDate, author, heroImage, canonical } = Astro.props;
-const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/images/**/*.webp');
+const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/images/**/*');
 ---
 
 <html lang="no">
