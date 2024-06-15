@@ -39,5 +39,5 @@ canonical: 'https://optional-url-if-article-is-published-externally-first.com'
 ```
 3. Add images to `src/assets/images/`.  
   a. Let's try to keep it tidy, if you only have a hero image you can name the image file the same as the article file. If you have multiple images, please create a folder with the name of the article file.
-4. Write your article in [markdown](https://www.markdownguide.org/cheat-sheet/). Tip. you can [convert a google docs to markdown](https://www.markdownguide.org/tools/google-docs-to-markdown/).
+4. Write your article in [markdown](https://www.markdownguide.org/cheat-sheet/). Tip. you can [convert a google docs to markdown](https://gdoc2md.com/).
 5. Create a PR/merge to main.
