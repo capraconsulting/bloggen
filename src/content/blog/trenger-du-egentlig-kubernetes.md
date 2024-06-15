@@ -46,9 +46,11 @@ _Gregor’s Law: Excessive complexity is nature’s punishment for organizations
 
 Man må kontinuerlig sørge for at denne plattformen er oppdatert, sikker og robust, og at utviklingsteamene ikke blir negativt påvirket av endringer som gjøres. Sprengningsradiusen er ofte stor og man får et internt team i kritisk linje for andre utviklingsteam, og over tid kan dette føre til en uklar ansvarsmodell og at man glir tilbake til de funksjonelle siloene ("Dev" og "Ops") man har prøvd å bevege seg bort fra.
 
-![Isberg hvor man ser kompleksitet under overflaten](../../assets/images/trenger-du-egentlig-kubernetes/isberg.png)
+<figure>
 
-_Kompleksitet lurer under overflaten …_
+  ![Isberg hvor man ser kompleksitet under overflaten](../../assets/images/trenger-du-egentlig-kubernetes/isberg.png)
+  <figcaption>Kompleksitet lurer under overflaten …</figcaption>
+</figure>
 
 Selv med bruk av tjenester som Amazon Elastic Kubernetes Service (EKS) og Google Kubernetes Engine (GKE) påtar man seg som organisasjon et stort operasjonelt ansvar til gjengjeld for fleksibiliteten man får fra Kubernetes og tilhørende økosystem.
 
